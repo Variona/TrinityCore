@@ -1,0 +1,2 @@
+1. Will of the Forsaken tooltip bug: Says duration is 0. Should be 20 seconds.
+2. Custom weapons don't show on characters body when sheathed.
