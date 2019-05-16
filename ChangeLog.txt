@@ -1,0 +1,16 @@
+-----2019/05/16-----
+
+Fixed item 90557 (Ancient Quiver of the Kaldorei) | It's actually a quiver now.
+
+Nerfed Admin Set 90531 - 90533 | 5000 -> 100
+
+Nerfed the proc chance of 90656 & 90520 (Cloak of the General) | Was proccing way too much. Put it at a more reasonable level.
+
+Fixed 90618 (Key to Prison Complex) | Will now go into the keyring
+
+Changed 90617 (Gang Card) | It will now properly appear in the currency tab.
+
+
+
+
+-----????/??/??-----
