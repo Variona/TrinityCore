@@ -27,4 +27,21 @@ Buffed Myriam Moonsinger (12866) | Level 35 -> 45
 Added a custom Graveyard for the Prison Complex
 
 
------2019/??/??-----
+-----2019/05/18-----
+
+Human Racial "The Human Spirit" buffed | 3% to 5%
+
+All quests have had their minimum level requirement reduced by 10
+
+Draenei Racial Gift of the Naaru cooldown reduced to 2 minutes, down from 3 minutes.
+
+Draenei Racial Shadow Resistance buffed from 2% to 5%
+
+Added a custom item as a reward from quest "Arikara" | Ironwood Reed (90657)
+
+Buffed all throwing weapons by 50%
+
+Fixed prison complex death bug. You will now revive once you reenter the instance if dead.
+
+
+-----2019/05/??-----
