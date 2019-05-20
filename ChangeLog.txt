@@ -44,4 +44,19 @@ Buffed all throwing weapons by 50%
 Fixed prison complex death bug. You will now revive once you reenter the instance if dead.
 
 
------2019/05/??-----
+-----2019/05/19-----
+
+Added an item that removes the soulbind effect | Essence Encasing Stone (90539) [No way to get the item yet]
+
+Heartrazor (5934) rarespawn has had its heath modified reduced by half | 3x down from 6x
+
+Fixed bug where thrown weapons didnt have any range.
+
+Removed the reagent cost of Slow Fall.
+
+Added custom Arcane Mage Spell Feather Foot (90150)
+
+Buffed Master of Deception (Rogue Talent) 10/20/30 up from 5/10/15
+
+
+-----2019/05/20-----
