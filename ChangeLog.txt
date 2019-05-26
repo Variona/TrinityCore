@@ -59,4 +59,13 @@ Added custom Arcane Mage Spell Feather Foot (90150)
 Buffed Master of Deception (Rogue Talent) 10/20/30 up from 5/10/15
 
 
+-----2019/05/22-----
+
+Reduced the honor cost of all items using extended id 841 | 200 down from 300
+
+Buffed item Vendetta (776), was very weak for its ilvl. | 23 - 43 up from 17 - 33 & +4 attack power
+
+Reduced the chance for AH bot to buy your stuff
+
+
 -----2019/05/??-----
