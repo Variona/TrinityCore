@@ -1,71 +1,12 @@
------2019/05/16-----
-
-Fixed item 90557 (Ancient Quiver of the Kaldorei) | It's actually a quiver now.
-
-Nerfed Admin Set 90531 - 90533 | 5000 -> 100
-
-Nerfed the proc chance of 90656 & 90520 (Cloak of the General) | Was proccing way too much. Put it at a more reasonable level.
-
-Fixed 90618 (Key to Prison Complex) | Will now go into the keyring
-
-Changed 90617 (Gang Card) | It will now properly appear in the currency tab.
 
 
------2019/05/17-----
-Buffed Feathermoon Sentinels(7939) and Shandris Feathermoon (3936) in Feralas.
+-----2019/06/03-----
 
-Added a custom NPC Aryna Moonwalker (190107) that paths around Feathermoon Stronghold along with two Sentinels.
+Fixed a bug in player_levelstats | Level 9 Warrior Strength value was off
 
-Nerfed Lord Lakmaeran's (12803) HP and damage.
+Buffed Tauren Warrior stamina values for certain levels
 
-Tweaked the Auction House Bot Buyer settings a bit.
-
-Nerfed the amount of Gang Cards dropped from Prison Chest (400024).
-
-Buffed Myriam Moonsinger (12866) | Level 35 -> 45
-
-Added a custom Graveyard for the Prison Complex
-
-
------2019/05/18-----
-
-Human Racial "The Human Spirit" buffed | 3% to 5%
-
-All quests have had their minimum level requirement reduced by 10
-
-Draenei Racial Gift of the Naaru cooldown reduced to 2 minutes, down from 3 minutes.
-
-Draenei Racial Shadow Resistance buffed from 2% to 5%
-
-Added a custom item as a reward from quest "Arikara" | Ironwood Reed (90657)
-
-Buffed all throwing weapons by 50%
-
-Fixed prison complex death bug. You will now revive once you reenter the instance if dead.
-
-
------2019/05/19-----
-
-Added an item that removes the soulbind effect | Essence Encasing Stone (90539) [No way to get the item yet]
-
-Heartrazor (5934) rarespawn has had its heath modified reduced by half | 3x down from 6x
-
-Fixed bug where thrown weapons didnt have any range.
-
-Removed the reagent cost of Slow Fall.
-
-Added custom Arcane Mage Spell Feather Foot (90150)
-
-Buffed Master of Deception (Rogue Talent) 10/20/30 up from 5/10/15
-
-
------2019/05/22-----
-
-Reduced the honor cost of all items using extended id 841 | 200 down from 300
-
-Buffed item Vendetta (776), was very weak for its ilvl. | 23 - 43 up from 17 - 33 & +4 attack power
-
-Reduced the chance for AH bot to buy your stuff
+Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507, 60 block up from 30, required level 31 down from 36, and buffed the associated spell
 
 
 -----2019/05/26-----
@@ -85,10 +26,72 @@ Buffed High Bregg Helm (13128) | Armor 241 up from 231 and critical strike ratin
 
 Added various items to the loot table to Zal'hakkar
 
------2019/06/03-----
 
-Fixed a bug in player_levelstats | Level 9 Warrior Strength value was off
+-----2019/05/22-----
 
-Buffed Tauren Warrior stamina values for certain levels
+Reduced the honor cost of all items using extended id 841 | 200 down from 300
 
-Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507, 60 block up from 30, required level 31 down from 36, and buffed the associated spell
+Buffed item Vendetta (776), was very weak for its ilvl. | 23 - 43 up from 17 - 33 & +4 attack power
+
+Reduced the chance for AH bot to buy your stuff
+
+
+-----2019/05/19-----
+
+Added an item that removes the soulbind effect | Essence Encasing Stone (90539) [No way to get the item yet]
+
+Heartrazor (5934) rarespawn has had its heath modified reduced by half | 3x down from 6x
+
+Fixed bug where thrown weapons didnt have any range.
+
+Removed the reagent cost of Slow Fall.
+
+Added custom Arcane Mage Spell Feather Foot (90150)
+
+Buffed Master of Deception (Rogue Talent) 10/20/30 up from 5/10/15
+
+
+-----2019/05/18-----
+
+Human Racial "The Human Spirit" buffed | 3% to 5%
+
+All quests have had their minimum level requirement reduced by 10
+
+Draenei Racial Gift of the Naaru cooldown reduced to 2 minutes, down from 3 minutes.
+
+Draenei Racial Shadow Resistance buffed from 2% to 5%
+
+Added a custom item as a reward from quest "Arikara" | Ironwood Reed (90657)
+
+Buffed all throwing weapons by 50%
+
+Fixed prison complex death bug. You will now revive once you reenter the instance if dead.
+
+
+-----2019/05/17-----
+Buffed Feathermoon Sentinels(7939) and Shandris Feathermoon (3936) in Feralas.
+
+Added a custom NPC Aryna Moonwalker (190107) that paths around Feathermoon Stronghold along with two Sentinels.
+
+Nerfed Lord Lakmaeran's (12803) HP and damage.
+
+Tweaked the Auction House Bot Buyer settings a bit.
+
+Nerfed the amount of Gang Cards dropped from Prison Chest (400024).
+
+Buffed Myriam Moonsinger (12866) | Level 35 -> 45
+
+Added a custom Graveyard for the Prison Complex
+
+
+-----2019/05/16-----
+
+Fixed item 90557 (Ancient Quiver of the Kaldorei) | It's actually a quiver now.
+
+Nerfed Admin Set 90531 - 90533 | 5000 -> 100
+
+Nerfed the proc chance of 90656 & 90520 (Cloak of the General) | Was proccing way too much. Put it at a more reasonable level.
+
+Fixed 90618 (Key to Prison Complex) | Will now go into the keyring
+
+Changed 90617 (Gang Card) | It will now properly appear in the currency tab.
