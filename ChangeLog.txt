@@ -68,4 +68,27 @@ Buffed item Vendetta (776), was very weak for its ilvl. | 23 - 43 up from 17 - 3
 Reduced the chance for AH bot to buy your stuff
 
 
------2019/05/??-----
+-----2019/05/26-----
+
+Adjusting levels of various NPCs. Notably the Mages in the Mage Tower of Stormwind.
+
+Modified the Sewer Beast (3581) | level 58 up from level 50. Increased exp on kill. Added more items to its loot table.
+
+Buffed Zal'hakkar (190061) | HP x 8, DMG x 3
+
+Buffed Robes of Ingist (940) | CD is now 2 minutes down from 15, armor 88 up from 84, spell power 14 up from 0, and
+	intellect 33 up from 25
+	
+Buffed Cassandra's Grace (13102) | Armor 59 up from 55, spirit 12 up from 9, and intellect 6 up from 0.
+
+Buffed High Bregg Helm (13128) | Armor 241 up from 231 and critical strike rating 24 up from 15
+
+Added various items to the loot table to Zal'hakkar
+
+-----2019/06/03-----
+
+Fixed a bug in player_levelstats | Level 9 Warrior Strength value was off
+
+Buffed Tauren Warrior stamina values for certain levels
+
+Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507, 60 block up from 30, required level 31 down from 36, and buffed the associated spell
