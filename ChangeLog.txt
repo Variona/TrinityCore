@@ -64,7 +64,7 @@ Draenei Racial Shadow Resistance buffed from 2% to 5%
 
 Added a custom item as a reward from quest "Arikara" | Ironwood Reed (90657)
 
-Buffed all throwing weapons by 50%
+Buffed all throwing weapon damage by 50%
 
 Fixed prison complex death bug. You will now revive once you reenter the instance if dead.
 
