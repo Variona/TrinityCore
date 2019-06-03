@@ -6,7 +6,8 @@ Fixed a bug in player_levelstats | Level 9 Warrior Strength value was off
 
 Buffed Tauren Warrior stamina values for certain levels
 
-Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507, 60 block up from 30, required level 31 down from 36, and buffed the associated spell
+Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507, 
+	60 block up from 30, required level 31 down from 36, and buffed the associated spell
 
 
 -----2019/05/26-----
