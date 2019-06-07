@@ -1,4 +1,21 @@
 
+-----2019/06/04-----
+
+Made Highland Razormaw (1018) and Elder Razormaw (1019) elites also made them a higher level | Elder is 37 up from 29, Highland is 32-33 up from 27-28, and experience is 2x up from 1x
+
+Highland Matriarch is now level 40 up from 31
+
+Buffed Jurassic Wristguards (6198) | Required level 37 up from 25, sell price 31 silver 13 copper up from 11 silver 13 copper, 11 agility up from 5, 6 strength up from 2, 61 armor up from 41, max durability 45 up from 30, and disenchant id is 7 was 4.
+
+-----2019/06/04-----
+
+Buffed the experienced gained from monsters 20+ levels above you. |Doubled the 20-30 bracket and buffed the ones above it slightly.
+
+
+-----2019/06/04-----
+
+The Green Tower (18097 & 17154) spell has been changed. | 20% proc up from 1, 10 damage each hit up from 3,
+	10 nature resistance down from 50. Spell can now stack up to 20 times.
 
 -----2019/06/03-----
 
@@ -6,8 +23,10 @@ Fixed a bug in player_levelstats | Level 9 Warrior Strength value was off
 
 Buffed Tauren Warrior stamina values for certain levels
 
-Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507, 
+Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507,
 	60 block up from 30, required level 31 down from 36, and buffed the associated spell
+	
+Added +100% spellpower to the "Hardcore Mode (2)" (90134) buff.
 
 
 -----2019/05/26-----
