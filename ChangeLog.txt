@@ -1,15 +1,48 @@
 
+-----2019/06/07-----
+
+Ma'ruk Wyrmscale (2090) is now level 27 up from 23.
+
+Mangeclaw (1961) is now an elite, exp is 5x up from 1x, health is 1.1x was 1x
+
+Grawmug (1205), Brawler (1206), and Gnasher (1207) are now elites.
+
+In Defense of the King's Lands (217) | Questlevel 19 was 17, rewards 2 silver 23 copper, and RewardXPID is now 9
+	was 6.
+
+Buffed Frontier Britches (1436) | itemlevel 19 was 17, strength is 4 was 3, agility is 4 up from 3, and armor is 69
+	was 64.
+
+Buffed Lucky Trousers (1832) | itemlevel 19 was 17, spirit is 4 was 3, stamina is 3 was 2, and armor 29 was 27.
+
+Buffed Dwarven Defender (6187) | itemlevel 19 was 17, stamina is now 5 was 3, armor is 409 was 361, 
+	and block 7 was 6
+	
+Buffed Warchief's Girdle (5750) | itemlevel 27 was 23, required level 22 was 18, strength is now 6 up from 5, 
+	stamina is 4 was 4, and armor is 109 was 99.
+	
+Made a reference loot table for dungeon 1 gear, set to be placed on level 60 elite world monsters. 
+
+Added above reference loot table to Scalebane Lieutenant (1048), Wyrmkin Firebrand (1049), 
+	Scalebane Royal Guard (1050), and Lasizor Fullmantle (190104).
+
+Moved Lasizor Fullmantle (190104) to Grim Batol
+
 -----2019/06/06-----
 
-Made Highland Razormaw (1018) and Elder Razormaw (1019) elites also made them a higher level | Elder is 37 up from 29, Highland is 32-33 up from 27-28, and experience is 2x up from 1x
+Made Highland Razormaw (1018) and Elder Razormaw (1019) elites also made them a higher level | Elder is 37 up from
+	29, Highland is 32-33 up from 27-28, and experience is 2x up from 1x
 
 Highland Matriarch is now level 40 up from 31
 
-Buffed Jurassic Wristguards (6198) | Required level 37 up from 25, sell price 31 silver 13 copper up from 11 silver 13 copper, 11 agility up from 5, 6 strength up from 2, 61 armor up from 41, max durability 45 up from 30, and disenchant id is 7 was 4.
+Buffed Jurassic Wristguards (6198) | Required level 37 up from 25, sell price 31 silver 13 copper up from 
+	11 silver 13 copper, 11 agility up from 5, 6 strength up from 2, 61 armor up from 41,
+	max durability 45 up from 30, and disenchant id is 7 was 4.
 
 -----2019/06/05-----
 
-Buffed the experienced gained from monsters 20+ levels above you. |Doubled the 20-30 bracket and buffed the ones above it slightly.
+Buffed the experienced gained from monsters 20+ levels above you. | Doubled the 20-30 bracket and
+	buffed the ones above it slightly.
 
 
 -----2019/06/04-----
@@ -33,7 +66,8 @@ Added +100% spellpower to the "Hardcore Mode (2)" (90134) buff.
 
 Adjusting levels of various NPCs. Notably the Mages in the Mage Tower of Stormwind.
 
-Modified the Sewer Beast (3581) | level 58 up from level 50. Increased exp on kill. Added more items to its loot table.
+Modified the Sewer Beast (3581) | level 58 up from level 50. Increased exp on kill. 
+	Added more items to its loot table.
 
 Buffed Zal'hakkar (190061) | HP x 8, DMG x 3
 
