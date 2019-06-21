@@ -1,4 +1,43 @@
 
+-----2019/06/20-----
+
+Changed Endurance (20550) Tauren Racial | Is now 20% stamina was 20% base health
+
+Addded "Hardcore Mode (3)" (90151) | +20% hit chance
+
+Lord Falconcrest (2597) | Now Elite, 2x hp up from 1.5, 2x dmg up from 1, and 3x experience up from 1.
+
+Otto (2599) | Now Elite, 1.5x hp up from 0.75, 1.5x armor up from 1x, 2x dmg up from 1, and 3x experience up from 1.
+
+Boss Tho'grun (2944) | Level 45, is now elite, 2x hp was 1.2, 3x damage was 1, and 3x experience was 1.
+
+Prince Galen Trollbane (2607) | Now Elite and quest giver
+
+Watcher Paige (499) | Now quest giver
+
+Justine Demalier (12481) | Now quest giver
+
+Added Alliance Soldier quest line up to Captain (30006 - 30023)
+
+-----2019/06/18-----
+	
+Tweaked the extra exp script once more
+
+Added more loot to the dragons in Grim Batol
+
+-----2019/06/09-----
+
+Reworked the extra experience script to take into account the player's level not just the level difference.
+	Will be tweaking in the foreseeable future.
+
+-----2019/06/08-----
+
+Added a transmogrifier and reforger npc next to the mage trainers in orgrimmar
+
+Buffed Arikara (10882) | Now an elite mob, 3x exp up from 1x, 2x health up from 1.15x, and 2x damage up from 1x.
+
+Arikara (5088) Quest | Suggested group number is now 2 up from 1. RewardXPID 9 was 5
+
 -----2019/06/07-----
 
 Ma'ruk Wyrmscale (2090) is now level 27 up from 23.
