@@ -3,7 +3,7 @@
 
 Changed Endurance (20550) Tauren Racial | Is now 20% stamina was 20% base health
 
-Addded "Hardcore Mode (3)" (90151) | +20% hit chance
+Addded "Hardcore Mode (3)" (90151) | +75% hit chance
 
 Lord Falconcrest (2597) | Now Elite, 2x hp up from 1.5, 2x dmg up from 1, and 3x experience up from 1.
 
