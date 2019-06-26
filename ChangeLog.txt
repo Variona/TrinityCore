@@ -10,7 +10,6 @@ Added custom gossip text to Zorian Kazinski (190055 && 50000)
 
 Made Archmage Rhydia (33696) is now level 90 | Going to make a custom NPC to replace her soon I think
 
-
 -----2019/06/22-----
 
 Removed Expert First aid, heavy silk bandages, and mageweave bandages from trainers
