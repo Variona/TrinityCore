@@ -6,9 +6,10 @@ Added spell "Teleport: Zorian's Binding Stone" (90152) | Teleports user to set c
 	
 Added Golem Protector (190108) | Zorian's Golems made to protect him and his allies (adding waypoints in future)
 
-Added custom gossip text to Zorian Kazinski
+Added custom gossip text to Zorian Kazinski (190055 && 50000)
 
-Made Archmage Rhydia level 90 | Going to make a custom NPC to replace her soon I think
+Made Archmage Rhydia (33696) is now level 90 | Going to make a custom NPC to replace her soon I think
+
 
 -----2019/06/22-----
 
