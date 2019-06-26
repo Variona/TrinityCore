@@ -1,4 +1,27 @@
 
+-----2019/06/26-----
+
+Added Teleport: Zorian's Binding Stone (90152) | Teleports user to set coords. Reward from future Zorian quest
+	(Not yet implemented)
+	
+Added Golem Protector (190108) | Zorian's Golems made to protect him and his allies (adding waypoints in future)
+
+Added custom gossip text to Zorian Kazinski
+
+Made Archmage Rhydia level 90 | Going to make a custom NPC to replace her soon I think
+
+-----2019/06/22-----
+
+Removed Expert First aid, heavy silk bandages, and mageweave bandages from trainers
+
+Typo fixes in new questline.
+
+Increased experience required for levels 40+
+
+-----2019/06/22-----
+
+Attempt to fix Pursuit of Justice rank 1 and 2 | Wasn't increasing mount speed
+
 -----2019/06/20-----
 
 Changed Endurance (20550) Tauren Racial | Is now 20% stamina was 20% base health
