@@ -1,7 +1,7 @@
 
 -----2019/06/26-----
 
-Added Teleport: Zorian's Binding Stone (90152) | Teleports user to set coords. Reward from future Zorian quest
+Added spell "Teleport: Zorian's Binding Stone" (90152) | Teleports user to set coords. Reward from future Zorian quest
 	(Not yet implemented)
 	
 Added Golem Protector (190108) | Zorian's Golems made to protect him and his allies (adding waypoints in future)
