@@ -1,4 +1,15 @@
 
+-----2019/06/29-----
+
+Fixed Soul Shard (90518) | Would delete itself after its useage was up. Removed usage limit as it should have been.
+
+Made Ascendancy ranks 1, 2, and 3 (90016 - 90018) visible in spell book.
+
+Fixed quest bugs with "Archmage Kazinski" (30005) and "This One is on Me" (30001) | Fixed item requirements.
+
+Fixed typo in Zorian Kazinski's gossip dialog.
+
+
 -----2019/06/26-----
 
 Added spell "Teleport: Zorian's Binding Stone" (90152) | Teleports user to set coords. Reward from future Zorian quest
