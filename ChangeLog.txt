@@ -1,4 +1,10 @@
 
+-----2019/07/08-----
+
+Changed Call of the Raptor (4546) to have infinite charges and a 1 minute cooldown.
+
+Dark Leather Gloves (4248) buffed | 4 agility up from 0, 2 stamina up from 0, and crit rating 4 up from 0.
+
 -----2019/06/29-----
 
 Fixed Soul Shard (90518) | Would delete itself after its useage was up. Removed usage limit as it should have been.
