@@ -1,4 +1,17 @@
 
+-----2019/07/09-----
+
+Fixed Magic Attunement | Now works on custom arcane spells. 
+
+Fixed Vigor (14983) spell name
+
+Krom'Grul (8977) buffed | Now elite, level 56 was level 54, health 2x was 1.3, damage 2x was 1x, and exp 3x was 1x.
+
+Quest "Krom'Grul" (3822) | Questlevel 58 was 53, minlevel 46 was 28, and rewardxpdifficulty 7 was 5.
+
+Sha'ni's Ring (11869) | 18 stamina was 10 and 19 mp5 was 0
+
+
 -----2019/07/08-----
 
 Changed Call of the Raptor (4546) to have infinite charges and a 1 minute cooldown.
