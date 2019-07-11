@@ -1,4 +1,11 @@
 
+-----2019/07/11-----
+
+Grandstaff of Wisdom (90655) | +17 spellpower was +0
+
+Grandstaff of Wisdom (90655) and Cloak of the General (90656) | both can be purchased with their old counterparts
+	and 2000 honor
+
 -----2019/07/09-----
 
 Fixed Magic Attunement | Now works on custom arcane spells. 
