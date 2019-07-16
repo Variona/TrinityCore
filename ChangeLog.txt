@@ -1,4 +1,70 @@
 
+-----2019/07/15-----
+
+Forced several items to be sold on the AH. Several quivers / ammo pouches. Along with corrosponding ammo.
+
+Buffed Lifestone Regeneration (5707) | 100 Hp/5 was 10. On use effect now heals 900 - 1200 and has a
+	two minute cool down was 300 to 700 and 30 minute cooldown.
+	
+Buffed Lei of Lilies (1315) | On use cooldown reduced from 1 hour to 2 minutes and restores 725 to 875 mana
+	 and health instead of 525 to 675. Mp5 +17 was 0.
+
+Buffed Myrmidon's Signet (2246) | 15 strength was 10, 13 agility was 7, and 23 attack power was 0.
+
+Buffed Taran Icebreaker (2915) | 8 strength was 0, 12 stamina, was 0, and 17 intellect was 0.
+
+Buffed Brain Hacker (1263) | Proc: 300 to 400 was 200 to 300 and -75 intellect was -25. +20 strength was 0.
+
+Buffed Jeweled Amulet of Cainwyn (1443) | 24 intellect was 19, 15 spirit was 10, 10 stamina was 8, and
+	19 spellpower was 0.
+
+Buffed Elemental Mage Staff (944) | 40 Fire and Frost Resistance was 20. 7 stamina was 0 and 14 intellect was 0.
+
+Buffed Shadowblade (2163) | 12 agility was 0 and 22 attack power was 0.
+
+Buffed Edgemaster's Handguards (14551) | 22 hit rating was 19, 22 expertise rating was 17, and 16 attack power
+	was 0.
+	
+Buffed Bloodrazor (809) | 6 stamina was 0, 27 attack power was 0, and 9 expertise rating was 0.
+
+Buffed Kang the Decapitator (2291) | 12 stamin was 0, 19 strength was 0, and 6 hit rating was 0.
+
+Buffed Blackskull Shield (1169) | 30 shadow resistance was 10, 2763 armor was 2163, 25 stamina was 5, 0 spirit
+	was 10, and 12 defense rating was 0.
+	
+Buffed Ring of Saviors (1447) | Cooldown: 1000 armor up from 300 and cooldown is 3 minutes was 30. 125 armor
+	was 0, and 11 dodge rating was 0.
+
+Buffed Gut Ripper (2164) | Proc: 115 to 141 damage was 95 to 121. +9 crit rating was 0.
+
+Buffed Icemail Jerkin (1981) | 366 armor was 336, 51 frost resistance was 10, 5 spirit was 24, 24 agility was 5,
+	and 4 hit rating was 0.
+	
+Buffed Nightblade (1982) | 9 strength was 0 and 14 stamina was 0.
+
+Buffed Shadow Bolt (18211) | 225 to 375 damage was 125 to 275.
+	Developer note: This spell is used by three different items Ebon Hand (19170), Doombringer (13053),
+		and Nightblade (1982). This buff will effect all three items.
+
+Buffed Ardent Custodian (868) | 200 armor was 100, 15 stamina was 0, 15 block rating was 0, and 23 Hp/5 was 0.
+
+Buffed Bow of Searing Arrows (2825) | Proc: 32 to 42 damage was 18 to 26. 6 agility was 0 and 12 attack power was 0.
+
+Next BoE Epics to be buffed: Cloak of Flamges (3475), Hand of Edward the Odd (2243), Sash of Mercy (14553), 
+	Dwarven Hand Cannon (2099), Axe of the Deep Woods (811), Krol Blade (2244), Hammer of the Northern Wind (810),
+	Warden STaff (943), Gloves of Holy Might (867), Dazzling Longsword (869), Teebu's Blazing Longsword (1728),
+	Stonerender Gauntlets (17007), Wall of the Dead (1979), Skullflame Shield (1168), Stockade Pauldrons (14452),
+	Flurry Axe (871), Alcor's Sunrazor (14555), Precisely Calibrated Boomstick (2100), and Boots of Avoidance (14549)
+
+-----2019/07/14-----
+
+Nerfed all extra exp gained from killing higher level monsters than you. 
+	Developer note: The goal of the extra experience is to both to incentivize trying to kill hard monsters and to
+		add a system that just makes sense logically. If you kill a monster far stronger than you you should 
+		recieve ample experience as a reward. However I noticed that it wasn't terribly hard to kill monsters
+		upwards of 30 levels higher without much challenge. Thus I've reduced the amount of experience gained over 
+		all brackets. Will keep an eye on it and adjust more if needed.
+
 -----2019/07/11-----
 
 Grandstaff of Wisdom (90655) | +17 spellpower was +0
