@@ -1,4 +1,60 @@
 
+-----2019/07/16-----
+
+Buffed Teebu's Blazing Longsword (1728) | Buffed proc spell. 10 stamina was 0 and 12 hit rating was 0.
+
+Buffed Cloak of Flames (3475) | 25 fire resistance was 15. 17 stamina was 0.
+
+Buffed Alcor's Sunrazor (14555) | 30 fire resistance was 10. Proc changed to on use. Now does 665 to 715 damage
+	and has a 2 minute cooldown. 14 intellect was 0, 16 spellpower was 0, and 9 Mp/5 was 0.
+
+Buffed Hand of Edward the Odd (2243) | 10 stamina was 0, 0 spirit was 10, 21 attack power was 0, 0 intellect
+	was 13.
+
+Buffed Sash of Mercy (14553) | 24 intellect was 0.
+
+Buffed Skullflame Shield (1168) | 30 fire and shadow resistance was 10. 2993 armor was 2593, 57 block was 53, 
+	11 stamina was 0, 15 defense rating was 0, and 17 Hp/5 was 0.
+
+Buffed Dwarven Hand Cannon (2099) | Proc now does 93 to 109 damage up from 33 to 49. 7 agility was 0 and
+	9 hit rating was 0.
+
+Buffed Axe of the Deep Woods (811) | 13 attack power was 0 and 8 haste rating was 0.
+
+Buffed Krol Blade (2244) | 16 strength was 7 and 9 stamina was 5. 90 to 149 damage was 80 to 149.
+
+Buffed Stockade Pauldrons (14552) | 6 Hp/5 was 0.
+
+Buffed Hammer of the Northern Wind (810) | 31 haste rating was 0.
+
+Buffed Stonerender Gauntlets (17007) | 29 nature resistance was 10, 20 Mp/5 was 0, 0 spirit was 20,
+	4 stamina was 10, and 14 intellect was 10.
+
+Buffed Wall of the Dead (1979) | Proc is now 850 armor was 150 and lasts 30 seconds was 20. 44 block was 41, 
+	2326 armor was 2226, 19 stamina was 10.
+
+Buffed Precisely Calibrated Boomstick (2100) | 58 to 76 damage was 48 to 56. 19 agility was 14.
+
+Buffed Warden Staff (943) | 510 armor was 260. 22 stamina was 11 and 14 Hp/5 was 0.
+
+Buffed Flurry Axe (871) | 9 attack power was 0 and 6 crit rating was 0.
+
+Buffed Boots of Avoidance (14549) | 16 strength was 14.
+
+Buffed Gloves of Holy Might (867) | 70 attack power vs undead was 30. 5 stamina was 0.
+
+Buffed Dazzling Longsword (869) | 6 attack power was 0. 47 to 80 damage was 37 to 70.
+
+Buffed Firebolt (18086) | 250 to 260 damage was 150.
+	Developer Note: This spell is used by two items. Teebu's Blazing Longsword (1728) and Force of Magma (11803).
+		this buff will affect both of these items.
+
+Buffed Undead Slayer 30 (18074) | 70 attack power up from 30. Renamed to Undead Slayer 70.
+	Developer Note: This spell affects Gloves of Holy Might (867) and Eater of the Dead (10805). Both items
+		will be affected by this change.
+
+Tweaked Auction House Bot settings.
+
 -----2019/07/15-----
 
 Forced several items to be sold on the AH. Several quivers / ammo pouches. Along with corrosponding ammo.
@@ -50,10 +106,10 @@ Buffed Ardent Custodian (868) | 200 armor was 100, 15 stamina was 0, 15 block ra
 
 Buffed Bow of Searing Arrows (2825) | Proc: 32 to 42 damage was 18 to 26. 6 agility was 0 and 12 attack power was 0.
 
-Next BoE Epics to be buffed: Cloak of Flamges (3475), Hand of Edward the Odd (2243), Sash of Mercy (14553), 
+Next BoE Epics to be buffed: Cloak of Flames (3475), Hand of Edward the Odd (2243), Sash of Mercy (14553), 
 	Dwarven Hand Cannon (2099), Axe of the Deep Woods (811), Krol Blade (2244), Hammer of the Northern Wind (810),
-	Warden STaff (943), Gloves of Holy Might (867), Dazzling Longsword (869), Teebu's Blazing Longsword (1728),
-	Stonerender Gauntlets (17007), Wall of the Dead (1979), Skullflame Shield (1168), Stockade Pauldrons (14452),
+	Warden Staff (943), Gloves of Holy Might (867), Dazzling Longsword (869), Teebu's Blazing Longsword (1728),
+	Stonerender Gauntlets (17007), Wall of the Dead (1979), Skullflame Shield (1168), Stockade Pauldrons (14552),
 	Flurry Axe (871), Alcor's Sunrazor (14555), Precisely Calibrated Boomstick (2100), and Boots of Avoidance (14549)
 
 -----2019/07/14-----
