@@ -55,6 +55,14 @@ Buffed Undead Slayer 30 (18074) | 70 attack power up from 30. Renamed to Undead 
 
 Tweaked Auction House Bot settings.
 
+Buffed Great Stamina (Pet Talents) | 5/10/15% extra stamina was 4/8/12%.
+
+Buffed Blood of the Rhino (Pet Talents) | 5/10% extra stamina was 2/4%. 25/50% extra healing on pet was 20/40%.
+
+Buffed Beast Mastery (53270) |  Gives 8 Pet Skill Points up from 4.
+
+Buffed Natural Armor | 10/20% extra armor, was 5/10%.
+
 -----2019/07/15-----
 
 Forced several items to be sold on the AH. Several quivers / ammo pouches. Along with corrosponding ammo.
