@@ -1,4 +1,16 @@
 
+-----2019/07/17-----
+
+Increased the honor price of level 60 PvP items:
+	15,000 is now 20,000. 9,000 is now 14,000. 3,000 is now 5,000 and 5,000 is now 7,000. 25,000 is now 35,000
+	and 13,000 is now 23,000
+
+Increased the honor price of level 70 PvP items:
+	16,000 is now 21,000, 12,000 is now 17,000, 18,000 is now 23,000, 13,000 is now 18,000, 36,000 is 
+	now 41,000, and 21,000 is now 26,000.
+	
+Iron Ring (90658) | Added to game.
+
 -----2019/07/16-----
 
 Buffed Teebu's Blazing Longsword (1728) | Buffed proc spell. 10 stamina was 0 and 12 hit rating was 0.
