@@ -11,6 +11,6 @@ Custom items, quests, spells, and more. These are all fairly blizzlike and nothi
 
 Transmogrification is available and an AH bot.
 
-There isn't really an population to speak of as this is a personal server that only my friends has access to. 
+There isn't really an population to speak of as this is a personal server that only my friends have access to. 
 
 This is more of a learning experience for myself. To see how much I can add / change within reason.
