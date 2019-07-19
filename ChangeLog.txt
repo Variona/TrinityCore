@@ -1,4 +1,20 @@
 
+-----2019/07/19-----
+
+The Green Tower (17154) spell has been redone. | No longer proc chance. Just base thorns damage. Thorns damage
+	has been buffed.
+
+Added Imbued Light Crossbow (90659), Imbued Fine Light Crossbow (90660), and Imbued Heavy Crossbow (90661).
+	They are Uncommon (Green) Crossbows meant to be sold by a vendor. Currently being sold by Marda Weller (1287)
+	in Stormwind. Will be adding another vendor for the Horde later.
+
+-----2019/07/18-----
+
+Lowered the amount of epics sold on the AH substantially and the amount of rare items were reduced moderately.
+	Developer Note:
+		This change is to accompany the buff to many BoE epics that can be bought on the auction house. I will
+		be also nerfing the amount dropped from world monsters in the future.
+
 -----2019/07/17-----
 
 Increased the honor price of level 60 PvP items:
