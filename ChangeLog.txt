@@ -7,6 +7,13 @@ The Green Tower (17154) spell has been redone. | No longer proc chance. Just bas
 Added Imbued Light Crossbow (90659), Imbued Fine Light Crossbow (90660), and Imbued Heavy Crossbow (90661).
 	They are Uncommon (Green) Crossbows meant to be sold by a vendor. Currently being sold by Marda Weller (1287)
 	in Stormwind. Will be adding another vendor for the Horde later.
+	
+Fixed up the old random enchantment script. Now only affects Uncommon+ items and also doesn't affect non weapon
+	or non armor items. Not all enchants are created equal! Good luck and may RNGesus be with you.
+	
+Fixed various enchantment ids that were invalid.
+	
+Added waypoints for some of the Golem Protectors (190108).
 
 -----2019/07/18-----
 
