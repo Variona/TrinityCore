@@ -1,4 +1,18 @@
 
+-----2019/07/23-----
+
+Testing some stack size changes.
+
+Linen, Wool, Silk, Mageweave, Rune, Fel, and Mooncloth now stack up to 200.
+
+Modified some unit settings | Unit aggro radius increased. Unit respawn timer increased.
+	Increased unit HP and Damage.
+
+
+-----2019/07/22-----
+
+Reduced the cast time of Learning (482) | Is now 10 seconds was 20.
+
 -----2019/07/19-----
 
 The Green Tower (17154) spell has been redone. | No longer proc chance. Just base thorns damage. Thorns damage
