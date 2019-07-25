@@ -1,4 +1,13 @@
 
+-----2019/07/25-----
+
+Increased the HP and damage of all units level 20 and above
+
+Reduced the overall HP and Damage of monsters
+	Developer note: This should be roughly the same damage and HP as before the change on the 23rd but
+		this will only affect monsters level 20 and above.
+
+
 -----2019/07/23-----
 
 Testing some stack size changes.
