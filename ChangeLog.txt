@@ -1,4 +1,31 @@
 
+-----2019/07/31-----
+
+Besseleth (11921) | Now elite and level 22.
+
+Claystone Shortsword (16891) | Now does 20 - 34 damage was 16 - 30.
+
+Clear Crystal Rod (16894) | Now +7 int and +2 stam was +5 and +4 respectively.
+
+Claystone Spear (90662) | New Polearm to be a reward from Arachnophobia (6284).
+
+Fixed the gossip on Corpse Laden Boat and Wanted Poster: Besseleth
+
+Maiora Songheart (190109) | Added new rare in Stonetalon.
+
+Added various waypoints for monsters in Heroic Deadmines.
+
+Added Maiora's Glaive of Everburn (90663) | Drops from Maiora.
+
+Added Ethereal Essence (90664) | To be used as a currency for transmog. Transmog will no longer cost gold.
+	Planned to be dropped from last bosses of level 60 dungeons.
+
+-----2019/07/29-----
+
+Tweaked AH settings
+
+Evened out the hp gain from 20. Slowly increases up to full by level 26.
+
 -----2019/07/25-----
 
 Increased the HP and damage of all units level 20 and above
