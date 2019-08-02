@@ -1,4 +1,19 @@
 
+-----2019/08/02-----
+
+Crusader Strike (35395) | Reduced damage done from 100% weapon damage to 75%. And mana cost is 1% was 5%.
+	Developer Note:
+		This change is made to put Crusader Strike's damage back to what it is in default 3.3.5. A long time ago
+		it was buffed to 100%. As the ability can be gained at level 20 by all Paladins and doesn't require
+		any talent points in Retribution as before it feels justified to nerf it back to its original state.
+		It is now a cheaper spell to cast as mana cost shouldn't be a huge factor in a Paladin's decision making.
+		
+Sanctity of Battle (35397) | Buffed Rank 3 to give 20% damage to Crusader Strike was 15%.
+
+New item Libram of the Crusade (90665) | Crusader Strike does +15 damage.
+
+Added disenchant values to various custom items.
+
 -----2019/07/31-----
 
 Besseleth (11921) | Now elite and level 22.
