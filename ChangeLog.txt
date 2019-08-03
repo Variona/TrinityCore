@@ -10,9 +10,18 @@ Crusader Strike (35395) | Reduced damage done from 100% weapon damage to 75%. An
 		
 Sanctity of Battle (35397) | Buffed Rank 3 to give 20% damage to Crusader Strike was 15%.
 
-New item Libram of the Crusade (90665) | Crusader Strike does +15 damage.
+New item Libram of the Crusade (90665) | Crusader Strike does +19 damage.
 
 Added disenchant values to various custom items.
+
+Vastly increased the amount of experience required for levels 20-50.
+
+Added a way to convert Small Glimmering Shard (10978) and Small Glowing Shards (11138) into their
+	larger counterparts.
+
+Two new extended ids for Small Glimmering and Glowing Shards (3046 and 3047 respectively).
+	
+NPC Aethura (190111) created.
 
 -----2019/07/31-----
 
