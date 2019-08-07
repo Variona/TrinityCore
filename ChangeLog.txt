@@ -1,4 +1,11 @@
 
+-----2019/08/06-----
+
+Item Teleportation Scroll: Zorian can now be purchased from a vendor for a modest fee.
+
+Item Ethereal Essence (90664) now drops from Heroic Edwin VanCleef.
+
+
 -----2019/08/02-----
 
 Crusader Strike (35395) | Reduced damage done from 100% weapon damage to 75%. And mana cost is 1% was 5%.
