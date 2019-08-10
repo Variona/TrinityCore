@@ -1,4 +1,8 @@
 
+-----2019/08/09-----
+
+Added new custom spells Stonemother's Blessing (90160) and Fury of Deepholm (90161) | Future Patron God spell.
+
 -----2019/08/06-----
 
 Item Teleportation Scroll: Zorian can now be purchased from a vendor for a modest fee.
