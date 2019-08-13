@@ -1,4 +1,44 @@
 
+-----2019/08/12-----
+
+Auction House Bot is going on vacation for a while.
+
+NPC Kel'gash the Wicked (16358) buffed | 2x HP was 1x and 3x damage was 2x.
+
+Item Well Crafted Long Bow (23409) buffed | 22 - 41 damage was 20 - 39 and now has +1 agility was +0.
+
+Item Well Crafted Sword (23410) buffed | 21 - 36 damage was 17 - 32.
+
+Item Well Crafted Staff (23411) buffed | +2 intellect was + 0.
+
+Item Well Crafted Shiv (90668) added | Now a reward option from quest Bring Me Kel'gash's Head (9215).
+
+NPC Cael Deacon (190068) buffed | Now level 50 was 38
+
+NPC Ruffian (190067) and Thug (190105) buffed | Now levels 45 - 49 was 34 - 37
+
+NPC Sizzi Vitalik (190069) buffed | Now level 48
+
+NPC Cazulik'Dazulum'Shatuk (190106) buffed | Now level 52
+
+Spell Hardcore Mode (90133) modified | Tooltip now accurately displays what all of its affects are. Hit Chance % reduced to 50% was 75%.
+
+NPC Miola Sedina (190112) | New Inkeeper for Farstider Enclave in Ghostlands.
+
+Item Corrupted Quel'dorei Crest (90586) nerfed | 8 Hp/5 was 35.
+
+Made a bunch of Leather and Cloth Crafting items stackable up to 200.
+	Developer Note: 
+		More Trade Goods to follow.
+Spell Battle Shout ranks 6 - 9 (11551, 25289, 2048, 47436) buffed | Duration is now 8 minutes up from 2.
+
+-----2019/08/10-----
+
+Buffed Sulkar Deathbringer (190065) | More HP and Damage. Too little compared to elites of a similar level.
+
+Item Sin'dorei Longblade (90667) | One handed sword is now a reward option from The Traitor's Destruction (9167).
+
+
 -----2019/08/09-----
 
 Added new custom spells Stonemother's Blessing (90160) and Fury of Deepholm (90161) | Future Patron God spell.
