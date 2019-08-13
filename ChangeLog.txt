@@ -21,7 +21,8 @@ NPC Sizzi Vitalik (190069) buffed | Now level 48
 
 NPC Cazulik'Dazulum'Shatuk (190106) buffed | Now level 52
 
-Spell Hardcore Mode (90133) modified | Tooltip now accurately displays what all of its affects are. Hit Chance % reduced to 50% was 75%.
+Spell Hardcore Mode (90133) modified | Tooltip now accurately displays what all of its affects are. Hit Chance % 
+	reduced to 50% was 75%.
 
 NPC Miola Sedina (190112) | New Inkeeper for Farstider Enclave in Ghostlands.
 
