@@ -30,6 +30,7 @@ Item Corrupted Quel'dorei Crest (90586) nerfed | 8 Hp/5 was 35.
 Made a bunch of Leather and Cloth Crafting items stackable up to 200.
 	Developer Note: 
 		More Trade Goods to follow.
+
 Spell Battle Shout ranks 6 - 9 (11551, 25289, 2048, 47436) buffed | Duration is now 8 minutes up from 2.
 
 -----2019/08/10-----
