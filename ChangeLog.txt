@@ -1,4 +1,30 @@
 
+-----2019/08/13-----
+
+Added the new Uncommon (Green) crossbows to a Horde vendor in Undercity named Benijah Fenner (4602).
+	He can be found in the War Quarter near the Weapon Master.
+
+Added custom gossip text to Miola Sedina (190112).
+
+Fixed quest complete dialog for "Deliver the Plans to An'telas" (9166)
+
+Fixed quest "The Rescue" (498) | Drull actually needs the key to be freed.
+
+Fixed Mysterious Tome (30000) | No need for extra item anymore. Horde Version Soon(TM)
+
+NPC Muck Frenzy (8236) | Now levels 24 - 25 was 14 - 15.
+
+Added a custom Graveyard for Fray Island.
+
+Buffed all items sold by Sizzi Vitalik in the Maze. They are now roughly equivalent to level 45 rares
+
+Five new rings Steelbound Ring, Silk Woven Band, Thin Kodo Hide Band, Silverbound Circle, and Bloodied Battleband
+	(90671, 90672, 90673, 90674, 90675) | To be purchased with Gang Cards.
+	
+Two new spells Flash Heal and Restore Mana (90162 & 90163) | To be used on the new rings.
+
+Fixed some typos in Sizzi Vitalik's gossip.
+
 -----2019/08/12-----
 
 Auction House Bot is going on vacation for a while.
@@ -21,8 +47,7 @@ NPC Sizzi Vitalik (190069) buffed | Now level 48
 
 NPC Cazulik'Dazulum'Shatuk (190106) buffed | Now level 52
 
-Spell Hardcore Mode (90133) modified | Tooltip now accurately displays what all of its affects are. Hit Chance % 
-	reduced to 50% was 75%.
+Spell Hardcore Mode (90133) modified | Tooltip now accurately displays what all of its affects are. Hit Chance % reduced to 50% was 75%.
 
 NPC Miola Sedina (190112) | New Inkeeper for Farstider Enclave in Ghostlands.
 
