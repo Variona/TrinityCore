@@ -1,4 +1,18 @@
 
+-----2019/08/15-----
+
+Reduced the rate of rested experience gained.
+
+Tweaked a few HP values nothing should be noticeable.
+
+Added Fury of the Firelands (90164) | Activateable spell from Ragnaros is he is your chosen patron.
+
+-----2019/08/14-----
+
+Lowered the amount of bonus experience gained from killing monsters 20 - 40 above your level.
+
+Fixed a visual sheathing bug for Corrupted Quel'dorei Crest (90586)
+
 -----2019/08/13-----
 
 Added the new Uncommon (Green) crossbows to a Horde vendor in Undercity named Benijah Fenner (4602).
