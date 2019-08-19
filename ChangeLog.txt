@@ -1,4 +1,14 @@
 
+-----2019/08/17-----
+
+Nerfed Blessing of the Stonemother | 2 extra HP/s a level down from 5.
+
+Nerfed Corrupted Quel'dorei Crest | Absorbs 300 + 1 per level down from 500 flat.
+	Developer note:
+		The item was too strong for a level 21 item. I tried reducing the proc rate which helped but in the end 
+		nerfing the total amount it absorbs is the most effective way to get it back around where it should be.
+
+
 -----2019/08/15-----
 
 Reduced the rate of rested experience gained.
