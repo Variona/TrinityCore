@@ -15,7 +15,7 @@ Reduced the rate of rested experience gained.
 
 Tweaked a few HP values nothing should be noticeable.
 
-Added Fury of the Firelands (90164) | Activateable spell from Ragnaros is he is your chosen patron.
+Added Fury of the Firelands (90164) | Activateable spell from Ragnaros if he is your chosen patron.
 
 -----2019/08/14-----
 
