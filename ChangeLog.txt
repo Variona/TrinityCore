@@ -1,4 +1,27 @@
 
+-----2019/08/21-----
+
+New NPC Gonak Thrul'zar (190113) | Repair vendor
+
+Nerfed Spell Hardcore Mode | Now only grants 50% extra attack power. Spell power is the same.
+	Developer Note:
+		There was a massive difference between a melee hardcore character and a caster one. Melee classes tended to obliterate 
+			npcs even 10+ levels ahead of them while casters had a much tougher time. Will continue to monitor their 
+			performance and will make tweaks if necessary.
+
+Fixed a typo in spell Blessing of the Quel'dorei
+
+New Custom Enchant +1% to all stats (4000) | Testing out a new enchant scroll. Works on any item.
+
+
+-----2019/08/20-----
+
+Many reagents & consumables are now now stackable up to 200.
+
+-----2019/08/19-----
+
+Fixed typo in spell Blessing of the Quel'dorei.
+
 -----2019/08/17-----
 
 Nerfed Blessing of the Stonemother | 2 extra HP/s a level down from 5.
