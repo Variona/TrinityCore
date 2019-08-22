@@ -1,4 +1,13 @@
 
+-----2019/08/22-----
+
+Added 4 more custom enchants (4001-4004) | +2,3,4, and 5%.
+
+Added a custom currency Enigmatic Tokens (90681) | To be used to purchase the custom enchants. Drops from last bosses of 
+	level 60 dungeons and all bosses in raids.
+
+New NPCs 190114 - 190116.
+
 -----2019/08/21-----
 
 New NPC Gonak Thrul'zar (190113) | Repair vendor
@@ -12,7 +21,6 @@ Nerfed Spell Hardcore Mode | Now only grants 50% extra attack power. Spell power
 Fixed a typo in spell Blessing of the Quel'dorei
 
 New Custom Enchant +1% to all stats (4000) | Testing out a new enchant scroll. Works on any item.
-
 
 -----2019/08/20-----
 
