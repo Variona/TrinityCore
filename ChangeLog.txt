@@ -1,4 +1,66 @@
 
+-----2019/09/24-----
+
+Buffed Spell Ramstein's Lightning Bolts (17669) | Was 200 damage is now 800 damage. 2 minute cooldown down from 5 minutes.
+
+Buffed Spell Diamon Flask (24427) | 150 attack power was 75 strength, 15 Hp/5 was 9, and cooldown is now 2 minutes was 6.
+	Removed shared 1 minute cooldown.
+
+Buffed Item High-powered Flashlight (45631) | 25 hit rating was 24 and +3 stamina was +0.
+
+Buffed Item Devilsaur Eye (19991) | No longer has a shared 1 minute cooldown.
+
+New Item Bag of Trinkets (90682) | Test item for a bag of semi-deterministic loot.
+	Developer Note: This is a possible additonal loot system. This bag is for melee trinkets but has a few items that can drop.
+		They can also be warforged (My friends would be pissed if they heard this). But for now I'll need to make more types of 
+		gear that can drop. I don't plan on having more than 10 items in a single bag.
+
+-----2019/09/22-----
+
+Spell Mithril Frag Bomb (12421) | Buffed damage from 149 - 201 to 201 - 253. And stun is now 3 seconds.
+
+-----2019/09/18-----
+
+Changed the warforging script to have less chance to get more than 2 enchants.
+
+Removed the + Weapon skill enchants from the warforging possibility list.
+
+Attempt to fix some pathing issues with npcs in Feathermoon Stronghold and in the Maze.
+
+-----2019/08/29-----
+
+Troll racial Regeneration (20555) buffed | 50% increased health regeneration and 50% allowed through combat. Up from 30%/30%.
+
+-----2019/08/25-----
+
+Made more materials stack up to 200.
+
+Buffed spell Pathfinding Rank 1 and 2 (19559 & 19560) | Now gives 8% and 16% bonus to Aspect of the Cheetah & Pack respectively.
+
+Changed Quest Worgen in the Woods (222 & 223) | Better reflects the elite monsters required for the quest. Better rewards over all.
+
+Item Consecrated Wand (5244) buffed | +1 intellect and +3 damage.
+
+Item Cloak of the Faith (2902) buffed | +3 armor, +1 stamina, +5 strength, and -4 spirit.
+
+Item Shield of the Faith (1547) buffed | +6 stamina, +36 armor, +2 block
+
+-----2019/08/24-----
+
+Fixed a bunch of miscellaneous errors.
+
+Added a few new custom gossips.
+
+Nerfed the level of Stormwind City Guards (68), Orgrimmar Grunt(3296 & 31416), Kor'kron Overseer (36213),
+	Bluffwatcher (3084), Silvermoon City Guardian (16222), Ironforge Guard (5595), Darnassus Sentinel (4262),
+	and Exodar Peacekeeper (16733) | Now level 65 was 75.
+
+Tweaked quite a few HP / damage values for various monsters / bosses in Molten Core & Zul'gurub.
+
+Edited the Random Enchant Script (Henceforth called Warforged) | Added a 5th possible bonus. Reduced the increased chance
+	that Rare / Epic items used to give. Rares now give a 20% extra chance per roll and Epics give a 50% extra bonus. 
+	Was, Rare 200% and Epic 300%. Will tweak if needed in the future.
+
 -----2019/08/22-----
 
 Added 4 more custom enchants (4001-4004) | +2,3,4, and 5%.
