@@ -11,9 +11,10 @@ Buffed Item High-powered Flashlight (45631) | 25 hit rating was 24 and +3 stamin
 Buffed Item Devilsaur Eye (19991) | No longer has a shared 1 minute cooldown.
 
 New Item Bag of Trinkets (90682) | Test item for a bag of semi-deterministic loot.
-	Developer Note: This is a possible additonal loot system. This bag is for melee trinkets but has a few items that can drop.
-		They can also be warforged (My friends would be pissed if they heard this). But for now I'll need to make more types of 
-		gear that can drop. I don't plan on having more than 10 items in a single bag.
+	Developer Note: This is a possible additonal loot system. This bag is for melee trinkets but 
+		has a few items that can drop. They can also be warforged (My friends would be pissed if
+		they heard this). But for now I'll need to make more types of gear that can drop. I don't 
+		plan on having more than 10 items in a single bag.
 
 -----2019/09/22-----
 
