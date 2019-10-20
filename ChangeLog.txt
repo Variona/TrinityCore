@@ -1,4 +1,31 @@
 
+-----2019/10/29-----
+
+Buffed Spell Increased Mana Regen (21363) | Was 6 MP/5 is now 10.
+	Note: This change affects 96 different items.
+
+Buffed Spell Vitality (21596) | Was 5 HP/5 is now 17.
+	Note: This change affects 5 different items.
+
+Buffed Item Shard of Afrasa (10659) | Is now Rare quality. The above to changes affect this item.
+
+Added 5 new rings to be sold by Stephan Burdensnatch for Enigmatic Tokens.
+
+Updated Stephan Burdensnatch's gossip text.
+
+-----2019/10/16-----
+
+Nerfed Item Grandstaff of Wisdom (90655) | 20 intellect down from 24, 7 spell power down from 17, 10 stamina down from 11.
+	100 - 127 damage down from 112 - 187.
+
+Nerfed Item Cloak of the General (90656) | 5 strength down from 11, 4 stamina down from 9, and 18 crit rating down from 22.
+
+	Developer Note: This change is due to the fact we've had the old iteration of these items for ages now and while these
+	should be a direct upgrade, I don't want to have them forever. Future nerfs to come after the players aquire these or
+	as necessary.
+
+Buffed Creature Sewer Beast (3581) | 5x damage up from 1x.
+
 -----2019/09/24-----
 
 Buffed Spell Ramstein's Lightning Bolts (17669) | Was 200 damage is now 800 damage. 2 minute cooldown down from 5 minutes.
