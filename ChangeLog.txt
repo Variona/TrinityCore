@@ -1,5 +1,36 @@
 
------2019/10/29-----
+-----2019/10/21-----
+
+Added 5 new necklaces to Stephan Burdensnatch for Enigmatic Tokens.
+
+Nerfed the 5 new rings to be Rare and item level 65. Down from Epic and item level 70.
+	The new necks match this change. Stats are unaffected.
+
+Re-itemized the Soulforge set. Now focuses on attack power and health regen over spell power and mana regen.
+
+Re-itemized the Lightforge set. Lowered the amount of intellect on some items and replaced that with hit rating.
+	Also removed agility and added health regen instead.
+
+Re-itemized the Beaststalker set. Now has no strength or spirit but more agility and hit rating.
+
+Re-itemized the Battlegear of Valor & Heroism set. Removed all agility and repalced it with health regen.
+
+Added hit rating to mutliple items in the Shadowcraft set. Also added Stealth 5 (17746) to the boots.
+
+New spell Increased Hit 5 (90178) | Increases hit rating by 5.
+
+Buffed spell Stealth +8 (27037) | Now is +20
+
+Buffed spell Increased All Resist 08 (41843) | Now is +20 to all resistances
+
+Made the 2 set bonus for all Dungeon 2 sets be spell 41843 or +20 to all resistances. Was +8 and various different spells.
+
+TODO:
+	Finished Re-itemizing the other dungeon sets and maybe tier 1 and 2 as well.
+	Warlock, Shaman, Priest, Mage, Druid, Rouge(2), need hit. Druids need a bit of fixing some items have weird Mp/5.
+
+
+-----2019/10/19-----
 
 Buffed Spell Increased Mana Regen (21363) | Was 6 MP/5 is now 10.
 	Note: This change affects 96 different items.
