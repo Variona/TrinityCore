@@ -1,4 +1,11 @@
 
+-----2019/10/24-----
+
+Added new itemset Scorpid Hide Garb (904) | Added 7 pre-existing items Tough Scorpid items. Buffed said 7 items as well.
+
+Buffed Band of Pure Might (90685) | +4 strength
+
+
 -----2019/10/21-----
 
 Added 5 new necklaces to Stephan Burdensnatch for Enigmatic Tokens.
