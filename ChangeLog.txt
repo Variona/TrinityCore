@@ -1,4 +1,14 @@
 
+-----2019/11/5-----
+
+You can now obtain Recipe: Soul Enhancing Elixir (90651) | Drops from random mobs around the world. Lets you 
+	learn a brand new alchemy recipe!
+
+Added some thorium veins in Heroic Deadmines.
+
+Attempt at making Heroic: Deadmines achievement.
+
+
 -----2019/10/24-----
 
 Added new itemset Scorpid Hide Garb (904) | Added 7 pre-existing items Tough Scorpid items. Buffed said 7 items as well.
