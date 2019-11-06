@@ -1,4 +1,13 @@
 
+-----2019/11/6-----
+
+Attempt at making Malaka'jin Inn work properly.
+
+Updated monsters around Karazhan so they aren't level 70.
+
+Added reputation vendors for the Magram / Gelkis Centaur clans. Only food available for them currently.
+
+
 -----2019/11/5-----
 
 You can now obtain Recipe: Soul Enhancing Elixir (90651) | Drops from random mobs around the world. Lets you 
