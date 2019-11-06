@@ -8,6 +8,8 @@ Added some thorium veins in Heroic Deadmines.
 
 Attempt at making Heroic: Deadmines achievement.
 
+Added new loading screen tips.
+
 
 -----2019/10/24-----
 
