@@ -1,4 +1,33 @@
 
+-----2019/12/3-----
+
+Went through the EXP per level required and redid things. 1-10 is unchanged. Everything else got some
+	changes. Most levels got reduced EXP requirments but they are still well above the Vanilla EXP
+	requirements.
+
+Buffed HP, Damage, and EXP for all bosses in Heroic Deadmines. Lowered the EXP gained from the regular units.
+
+Lowered the amount of gold dropped by the regular units in Heroic Deadmines. Now they will only drop 5-7 silver.
+
+
+-----2019/12/1-----
+
+Changed Stonemother's Blessing (90160) | 6% health every 5 seconds instead of flat hp/5 + 2 a level.
+
+Modified Glyph of Crusader Strike | Now increases the damage done by Crusader Strike by 14% instead of lowering
+	the mana cost by 20%.
+	
+Added some hidden content. Nothing major.
+
+
+-----2019/11/7-----
+
+Nerfed NPC Ravaged, Mangled Cadaver (10381, 10382) | 4x HP and 3x damage was 6x and 5.25x respectively.
+
+Changed the VASAutoBalance settings. Nerfed all dungeons.
+
+Buffed Ashbringer.
+
 -----2019/11/6-----
 
 Attempt at making Malaka'jin Inn work properly.
