@@ -1,4 +1,60 @@
 
+-----2019/12/29-----
+
+Auction house bot reenabled. But its not as generous as it used to be.
+
+
+-----2019/12/28-----
+
+Changed up the reward from the daily quest to now give a voucher for a vendor in Booty Bay.
+	Turn in the voucher in Booty Bay for a nice piece of armor.
+
+Changed quest text to reflect the above change.
+
+New item Leather Armor Voucher (90718) for above change.
+
+Added back lots of bindings. Mostly to raid drops.
+
+Quest rewards to have their bindings removed soon. They just need a level requirement. This will 
+affect most quest rewards but not all.
+
+
+-----2019/12/22-----
+
+Removed bindings on lots of items.
+
+Added a daily quest in the wetlands to kill Razormaw Raptors.
+
+Added various items for the said daily quest.
+
+Will be adding back bindings to various items over time but just the items that have been mistakenly unbound.
+
+
+-----2019/12/20-----
+
+Made all dungeon set 1 pieces non-binding. Not BOE, not BOP, and not BOA.
+	Developer Note:
+		I plan on doing this for many other items as well. Basically all non quest rewards / raid drops.
+
+
+-----2019/12/19-----
+
+Tweak the HP / Damage values of the raptors in Raptor Ridge.
+
+Added spell Thrash to two monsters in raptor ridge.
+
+Buffed two spells that the Razormaw Matriarch uses.
+
+
+-----2019/12/18-----
+
+Started on the Horde Army quest line. Two quests down a bunch to go.
+
+Increased monster aggro radius, was 70% is now 80%.
+
+Modified the extra EXP script.
+
+
 -----2019/12/3-----
 
 Went through the EXP per level required and redid things. 1-10 is unchanged. Everything else got some
@@ -118,7 +174,7 @@ Buffed Creature Sewer Beast (3581) | 5x damage up from 1x.
 
 Buffed Spell Ramstein's Lightning Bolts (17669) | Was 200 damage is now 800 damage. 2 minute cooldown down from 5 minutes.
 
-Buffed Spell Diamon Flask (24427) | 150 attack power was 75 strength, 15 Hp/5 was 9, and cooldown is now 2 minutes was 6.
+Buffed Spell Diamond Flask (24427) | 150 attack power was 75 strength, 15 Hp/5 was 9, and cooldown is now 2 minutes was 6.
 	Removed shared 1 minute cooldown.
 
 Buffed Item High-powered Flashlight (45631) | 25 hit rating was 24 and +3 stamina was +0.
