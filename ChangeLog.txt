@@ -1,4 +1,49 @@
 
+-----2020/1/11-----
+
+Changed name of Enigmatic Tokens (90681) to Enigmatic Token.
+
+Added Enigmatic Token to Horthus (3323) in Orgimmar and Owen Vaughn (1308) for one gold.
+	Developer Note:
+		This is so that if players want they can pay gold to transmog and not have to 
+		farm dungeons for the currency.
+
+
+-----2020/1/09-----
+
+Lowered the level of Booty Bay Bruiser (4624) | Now level 55 was level 77.
+
+Lowered the level of Ratchet Bruiser (3502) | Now level 45 was level 57.
+
+Lowered the level of Argent Sentry (16378) | Now level 60 was level 70.
+
+Lowered the level of Cenarion Hold Infantry (15184) | Now level 60 was level 70.
+
+-----2020/1/08-----
+
+Lowered the level of Steamwheedle Bruiser (16096), Watcher Umjin(25107), and Watcher Du'una(25106)
+	| Now level 60 was level 75.
+
+Lowered the level of Grom'gol Grunt (1064) | Now level 40 was level 65.
+
+Lowered the level of Gadgetzan Bruiser (9460) | Now level 55 was level 77.
+
+Lowered the level of Gadgetzan Sniper (21448) | Now level 55 was level 67.
+
+Lowered the level of Katrina Turner (19860) | Now level 45 was level 70.
+
+Lowered the level of Max Luna (19859) | Now level 55 was level 70.
+
+Lowered the level of Everlook Bruiser (11190) | Now level 55 was level 77.
+
+-----2020/1/06-----
+
+Added three new items.
+
+Added a dummy spell for the new experience crystal.
+
+Added a script to go with the dummy spell.
+
 -----2019/12/29-----
 
 Auction house bot reenabled. But its not as generous as it used to be.
@@ -246,7 +291,7 @@ New NPCs 190114 - 190116.
 
 New NPC Gonak Thrul'zar (190113) | Repair vendor
 
-Nerfed Spell Hardcore Mode | Now only grants 50% extra attack power. Spell power is the same.
+Nerfed Spell Hardcore Mode | Now only grants 50% extra attack power. Spell power is the still the same at 100%.
 	Developer Note:
 		There was a massive difference between a melee hardcore character and a caster one. Melee classes tended to obliterate 
 			npcs even 10+ levels ahead of them while casters had a much tougher time. Will continue to monitor their 
