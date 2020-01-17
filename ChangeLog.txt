@@ -1,4 +1,19 @@
 
+-----2020/1/13-----
+
+Mistakenly put Enigmatic Token (90681) on vendors corrected to Ethereal Essence (90664).
+
+Lowered the level of Deathguard Elite (7980) | Now level 60 was level 70.
+
+Lowered the levels of Crewman Coilspan (31705), Crewman Spinwheel (31704), and Crewman Stembolt (31706) |
+	Now level 38 were level 72.
+	
+Lowered the levels of Deathguard Hicks (31715) and Deathguard Barth (31708) | Now level 68 were 75.
+
+Lowered the levels of Deathguard Fowles (25079) and Deathguard Lawson (25083) | Now level 68 were 75.
+
+Plus lots of others...
+
 -----2020/1/11-----
 
 Changed name of Enigmatic Tokens (90681) to Enigmatic Token.
