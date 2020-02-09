@@ -1,12 +1,55 @@
 
+-----2020/2/08-----
+
+Several level 60 spells were taken off their trainers. You must now get their respective tomes.
+
+Nerfed Spell Blessing of the Quel'dorei | No longer grants +1 extra damage absorbed per level.
+
+-----2020/2/01-----
+
+You can now gain reputation from killing the Centaur clans up to Revered | Was Friendly.
+
+ 
+-----2020/1/29-----
+
+Finished with the Magram / Gelkis reputation vendors for now.
+
+Each vendor has 7 items. Consisting of 1 type of food, several pieces of armor and weapons,
+	along with a large bag. Check them out in Desolace! And remember you can only choose one
+	faction.
+
+Adding more rep to quests / kills for these factions in the future.
+
+
+-----2020/1/28-----
+
+Added some loot to Lunar Festival World boss Omen (15467)
+
+Added 4 new items to the Magram vendor in Desolace.
+
+-----2020/1/26-----
+
+Fixed the flavor text on the horde medallions.
+
+Fixed some typos in the completion text of quest Old Whitebark's Pendant (8474).
+
+-----2020/1/25-----
+
+Tweaked Bloodthistle and Bloodthistle Withdrawl.
+
+Buffed NPC Old Witherbark (15409) | Is now an elite, level 11 up from 10, and has had its DMG, HP,
+	and EXP buffed.
+
+Fixed a bug with Hardcore Mode | Now properly gives spell hit along side melee and ranged hit.
+
 -----2020/1/13-----
 
 Mistakenly put Enigmatic Token (90681) on vendors corrected to Ethereal Essence (90664).
 
 Lowered the level of Deathguard Elite (7980) | Now level 60 was level 70.
 
-Lowered the levels of Crewman Coilspan (31705), Crewman Spinwheel (31704), and Crewman Stembolt (31706) |
-	Now level 38 were level 72.
+Lowered the levels of Crewman Coilspan (31705), Crewman Spinwheel (31704), 
+	and Crewman Stembolt (31706) | Now level 38 were level 72.
 	
 Lowered the levels of Deathguard Hicks (31715) and Deathguard Barth (31708) | Now level 68 were 75.
 
