@@ -1,4 +1,11 @@
 
+-----2020/2/10-----
+
+Fixed a typo in the name of item 90639 (Blackened Defias Armor)
+
+Redid Deadmines in Atlas Loot Enhanced.
+	Now shows Heroic items.
+
 -----2020/2/09-----
 
 Edited Atlas Loot Enhanced to have some of my custom items on it.
