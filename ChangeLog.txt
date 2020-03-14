@@ -1,4 +1,37 @@
 
+-----2020/3/13-----
+
+Completely redid the loot tables for the monsters on Purgation Isle. They now also drop 'Undead Slaying' sets.
+
+Corrected the toolti for Pursuit of Justice (Paladin Talent) | Now properly reflects how it actually works.
+
+-----2020/3/09-----
+
+Buffed the item set bonuses of the Undead Slaying varity.
+
+-----2020/2/23-----
+
+Buffed the items from the set Battlegear of Undead Slaying.
+
+Buffed the items from the other armor type sets of Undead Slaying.
+
+Buffed various level 60 end game dungeon epics.
+
+-----2020/2/23-----
+
+Buffed item Ta'Kierthan Songblade(16039) | Swapped the damage values. Now the majority of its damage is arcane. Added 10 hit rating,
+	and 12 spell penetration.
+
+Buffed item Rock Golem Bulwark (11785) | Now gives 20 stamina, 20 nature/arcane resistance.
+
+Buffed item Second Wind (11819) | On use effect cooldown lowered to 2 minutes was 15 minutes
+
+Removed several items from the AH bot.
+
+Added more capacity to the AH
+
+Buffed item Gold-plated Buckler(90626) | +1 extra block
+
 -----2020/2/10-----
 
 Fixed a typo in the name of item 90639 (Blackened Defias Armor)
