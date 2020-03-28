@@ -1,4 +1,12 @@
 
+-----2020/3/28-----
+
+Added 2 new set to compliment the paladin ZG set. Prot and Ret now have their own set.
+
+Added new Tier Tokens for Molten Core. Along with a vendor who will take the tokens for
+	the actual set item.
+
+
 -----2020/3/13-----
 
 Completely redid the loot tables for the monsters on Purgation Isle. They now also drop 'Undead Slaying' sets.
