@@ -1,4 +1,15 @@
 
+-----2020/4/10-----
+
+Added new rewards for quest An Ambassador of Evil (762).
+
+-----2020/4/9-----
+
+Made it so the extra experience gained from killing higher level monsters isnt granted to
+	party members more than 59 yards away from you.
+
+Various tweaks to spells, tooltips, quests, and items.
+
 -----2020/3/28-----
 
 Added 2 new set to compliment the paladin ZG set. Prot and Ret now have their own set.
