@@ -1,4 +1,22 @@
 
+-----2020/4/22-----
+
+Buffed npc Grunter (8303) | deals twice the amount of damage as he used to.
+
+Buffed npc Clack the Reaver (8301) | deals twice the amount of damage he used to.
+
+Buffed spell Venom Sting (5416) | stacks up to 5 times and its damage is increased.
+
+Buffed npc Magronos the Unyielding (8297) | 2 times extra damage and a bit more hp.
+
+Buffed npc Dreadscorn (8304) | 2 times extra damage and a tiny bit more hp.
+
+-----2020/4/18-----
+
+Spell Call of the Grave (12020) | Increased the damage per level to 20, was 10.
+
+Adjusted a bunch of NPCs levels. Mostly vendors, innkeepers, bankers, etc.
+
 -----2020/4/10-----
 
 Added new rewards for quest An Ambassador of Evil (762).
@@ -22,7 +40,7 @@ Added new Tier Tokens for Molten Core. Along with a vendor who will take the tok
 
 Completely redid the loot tables for the monsters on Purgation Isle. They now also drop 'Undead Slaying' sets.
 
-Corrected the toolti for Pursuit of Justice (Paladin Talent) | Now properly reflects how it actually works.
+Corrected the tooltip for Pursuit of Justice (Paladin Talent) | Now properly reflects how it actually works.
 
 -----2020/3/09-----
 
