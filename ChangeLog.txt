@@ -1,4 +1,32 @@
 
+-----2020/5/09-----
+
+Winds of Wisdom now active. All experience gains now boosted by 100%.
+
+creature_classlevelstats has been reset to its default 3.3.5 state.
+
+-----2020/5/1-----
+
+Buffed spell Uther's Light (8397) | Increased proc chance to 5% from 2%.
+
+Buffed spell Uther's Light Effect (10368) | Scales up to 60 was 35. Goes up 3 dmg per level 
+	was 2.3
+
+-----2020/4/28-----
+
+Nerfed spell Venomous Strike (90030) | Ticks every 3 seconds was every 1. Damage is now 15 per 
+	stack down from 30.
+	
+Buffed npc Kirith the Damned (7728) | Now Rare Elite, 5x hp, 3x damage, and 5x experience.
+
+-----2020/4/24-----
+
+Fixed npc Deep Dweller (5467) | Won't evade underwater anymore.
+
+Fixed typos in the various permanent stat increase tomes.
+
+Enabled the AH buyer bot.
+
 -----2020/4/22-----
 
 Buffed npc Grunter (8303) | deals twice the amount of damage as he used to.
