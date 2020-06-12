@@ -1,3 +1,44 @@
+-----2020/6/12-----
+
+Buffed item Gnarled Ash Staff (791)
+
+Buffed npc Sentinel Amarassan (5916)
+
+Added rares to Sentinel Amarassan's drop table
+
+Buffed npcs within The Talon Den.
+
+Added new quests for the Horde military questline.
+
+Added new items for quests in the Horde military questline.
+
+Buffed quest rewards that require going into The Talon Den & The Peak.
+
+Buffed various npcs within Stonetalon Peak.
+
+-----2020/6/10-----
+
+Slight buff for mob hp from 1-60
+
+100% experience buff going away July 1st.
+
+-----2020/5/28-----
+
+Nerfed Feathermoon Ferry crew levels.
+
+Buffed item Quintis' Research Gloves (11888)
+
+Buffed item Bark Iron Pauldrons (11889)
+
+Added a new quest.
+
+Added a new item that drops off a rare.
+
+Buffed item Julie's Dagger (6660)
+
+-----2020/5/25-----
+
+Nerfed items Grandstaff of Wisdom | Lowered the amount of damage they did.
 
 -----2020/5/21-----
 
