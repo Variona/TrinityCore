@@ -1,3 +1,34 @@
+-----2020/7/02-----
+
+Made new items for vendor Stephan Burdensnatch (190116).
+
+Item ID range 90784- 90796
+
+Items include, Librams, Idols, Totems, a wand, and two shields.
+	Each cost 15 Enigmatic Tokens(90681)
+
+New extended item id (3080) for the new items.
+
+-----2020/7/01-----
+
+Winds of Wisdom 100% experience buff is now over.
+
+-----2020/6/25-----
+
+Buffed Spell Thorns (15438) | Used by items Naglering (11669) and Drillborer Disk (17066)
+
+Buffed npcs in heroic deadmines
+
+Added a new spell to Sneed and Miner Johnson in Heroic Deadmines
+
+Reduced exp gained from bosses in Heroic Deadmines.
+
+-----2020/6/13-----
+
+Nerfed item Silvia's Signet of Stealth (90585) | Increased cooldown for on use
+
+Buffed item Archeus | Slower weapon speed + more weapon damage. Buffed weapon proc
+
 -----2020/6/12-----
 
 Buffed item Gnarled Ash Staff (791)
@@ -54,7 +85,7 @@ creature_classlevelstats has been reset to its default 3.3.5 state.
 
 Disabled AH buyer bot.
 
------2020/5/1-----
+-----2020/5/01-----
 
 Buffed spell Uther's Light (8397) | Increased proc chance to 5% from 2%.
 
@@ -98,7 +129,7 @@ Adjusted a bunch of NPCs levels. Mostly vendors, innkeepers, bankers, etc.
 
 Added new rewards for quest An Ambassador of Evil (762).
 
------2020/4/9-----
+-----2020/4/09-----
 
 Made it so the extra experience gained from killing higher level monsters isnt granted to
 	party members more than 59 yards away from you.
@@ -317,7 +348,7 @@ Increased monster aggro radius, was 70% is now 80%.
 Modified the extra EXP script.
 
 
------2019/12/3-----
+-----2019/12/03-----
 
 Went through the EXP per level required and redid things. 1-10 is unchanged. Everything else got some
 	changes. Most levels got reduced EXP requirments but they are still well above the Vanilla EXP
@@ -328,7 +359,7 @@ Buffed HP, Damage, and EXP for all bosses in Heroic Deadmines. Lowered the EXP g
 Lowered the amount of gold dropped by the regular units in Heroic Deadmines. Now they will only drop 5-7 silver.
 
 
------2019/12/1-----
+-----2019/12/01-----
 
 Changed Stonemother's Blessing (90160) | 6% health every 5 seconds instead of flat hp/5 + 2 a level.
 
@@ -338,7 +369,7 @@ Modified Glyph of Crusader Strike | Now increases the damage done by Crusader St
 Added some hidden content. Nothing major.
 
 
------2019/11/7-----
+-----2019/11/07-----
 
 Nerfed NPC Ravaged, Mangled Cadaver (10381, 10382) | 4x HP and 3x damage was 6x and 5.25x respectively.
 
@@ -346,7 +377,7 @@ Changed the VASAutoBalance settings. Nerfed all dungeons.
 
 Buffed Ashbringer.
 
------2019/11/6-----
+-----2019/11/06-----
 
 Attempt at making Malaka'jin Inn work properly.
 
@@ -355,7 +386,7 @@ Updated monsters around Karazhan so they aren't level 70.
 Added reputation vendors for the Magram / Gelkis Centaur clans. Only food available for them currently.
 
 
------2019/11/5-----
+-----2019/11/05-----
 
 You can now obtain Recipe: Soul Enhancing Elixir (90651) | Drops from random mobs around the world. Lets you 
 	learn a brand new alchemy recipe!
