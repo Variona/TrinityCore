@@ -1,3 +1,9 @@
+-----2020/7/03-----
+
+Buffed item Barovian Family Sword (14541)
+
+Added two new items as a reward for completing the quest Rise of the Silithid (4267)
+
 -----2020/7/02-----
 
 Made new items for vendor Stephan Burdensnatch (190116).
