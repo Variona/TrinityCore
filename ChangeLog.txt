@@ -1,3 +1,19 @@
+-----2020/9/05-----
+
+Nerfed the 10th level stat bonuses.
+
+Nerfed spell Veteran Enchantment (90144) | Aborbs 534 damage down from 834
+
+Fixed typos in items Tome of Intellect... I - VI
+
+-----2020/8/03-----
+
+Buffed Servants of... in Blasted Lands
+
+Added Disenchant Ids to various items.
+
+Buffed item Bloodied Battleaxe (90619) | 2 RPPM was 1.
+
 -----2020/7/03-----
 
 Buffed item Barovian Family Sword (14541)
