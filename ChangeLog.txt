@@ -1,5 +1,10 @@
 -----2020/9/05-----
 
+Changed spell Command (21563) | Orcish Warrior racial. Now gives 5% increased damage instead of
+	5% increased pet damage
+
+-----2020/9/05-----
+
 Nerfed the 10th level stat bonuses.
 
 Nerfed spell Veteran Enchantment (90144) | Aborbs 534 damage down from 834
