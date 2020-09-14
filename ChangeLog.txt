@@ -1,4 +1,36 @@
------2020/9/05-----
+-----2020/9/14-----
+
+Fixed Recipe: Glyph of Mana Shield | Now properly works.
+
+Tweaked Rank 1+ mobs hp + damage.
+
+Added a new recipe for blacksmithing (90803)
+
+Added a new 2-handed axe for the blacksmithing recipe (90804)
+
+-----2020/9/13-----
+
+Warrior Charge Rank 2 & 3 (6178 & 11578) can now be cast in combat.
+
+Battle Shout Rank 2 (5242) | Lasts for 3 minutes was 2.
+
+Battle Shout Rank 3 (6192) | Lasts for 8 minutes was 2.
+
+Battle Shout Rank 4 (11549) | Lasts for 10 minutes was 2.
+
+Battle Shout Rank 5 (11550) | Lasts for 11 minutes was 2.
+
+Battle Shout Rank 6 (11551) | Lasts for 12 minutes was 4.
+
+Battle Shout Rank 7 (25289) | Lasts for 13 minutes was 4.
+
+Battle Shout Rank 8 (2048) | Lasts for 14 minutes was 4.
+
+Battle Shout Rank 9 (47436) | Lasts for 15 minutes was 4.
+
+Added 4 new spell duration IDs. 12, 13, 14, and 16 minutes.
+
+-----2020/9/12-----
 
 Changed spell Command (21563) | Orcish Warrior racial. Now gives 5% increased damage instead of
 	5% increased pet damage
