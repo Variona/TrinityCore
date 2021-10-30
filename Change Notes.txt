@@ -1,0 +1,1255 @@
+-----2021/10/29-----
+
+Tweaked stats for Lawbringer set to be healer focused. Changed 8 set bonus to proc on heal.
+
+Added DPS Lawbringer set.
+
+-----2021/10/28-----
+
+Fixed various errors.
+
+Added a bowyer vendor in The Park.
+
+Buffed Thunderfury (19019)
+
+Nerfed wand dps for most wands below ilvl 90.
+
+Buffed Ring of Spell Power (19147) | 44 spell power was 33
+
+Buffed Crimson Shocker (17077) | +24 spell power, +13 spell hit rating, +10 fire resistance
+
+Buffed Jaina's Firestarter (13064) | +1 int, +1 spirit, + 6 spell power
+
+Buffed Woestave (20081) | +1 stam and +4 spell crit rating
+
+-----2021/06/26-----
+
+Added Aviana and Malygos blessings.
+Added Allieth <Envoy of Wind>
+Added quest Lost Feather.
+Fixed VanCleef's Poison Vial proc.
+Added 4 new items to Heroic VanCleef.
+
+-----2020/9/15-----
+
+Fixed explosive sheep | They now blow themselves up on the enemy as intended
+
+Added a new quest to the barrens.
+
+Added a neat little reward for the quest. If you /hug the quest giver or his wife they will buff you.
+
+Changed the riding pamphlets you get at level 20 to level 40. And made the quests associated with 
+	them level 40. (Need to change the text sent in the letter itself. Not the quest)
+
+-----2020/9/14-----
+
+Fixed Recipe: Glyph of Mana Shield | Now properly works.
+
+Tweaked Rank 1+ mobs hp + damage.
+
+Added a new recipe for blacksmithing (90803)
+
+Added a new 2-handed axe for the blacksmithing recipe (90804)
+
+Added two new quests for the heads of two rare spawns in the barrens / durotar
+
+Added a vendor to Far Watch Post.
+
+-----2020/9/13-----
+
+Warrior Charge Rank 2 & 3 (6178 & 11578) can now be cast in combat.
+
+Battle Shout Rank 2 (5242) | Lasts for 3 minutes was 2.
+
+Battle Shout Rank 3 (6192) | Lasts for 8 minutes was 2.
+
+Battle Shout Rank 4 (11549) | Lasts for 10 minutes was 2.
+
+Battle Shout Rank 5 (11550) | Lasts for 11 minutes was 2.
+
+Battle Shout Rank 6 (11551) | Lasts for 12 minutes was 4.
+
+Battle Shout Rank 7 (25289) | Lasts for 13 minutes was 4.
+
+Battle Shout Rank 8 (2048) | Lasts for 14 minutes was 4.
+
+Battle Shout Rank 9 (47436) | Lasts for 15 minutes was 4.
+
+Added 4 new spell duration IDs. 12, 13, 14, and 16 minutes.
+
+-----2020/9/12-----
+
+Changed spell Command (21563) | Orcish Warrior racial. Now gives 5% increased damage instead of
+	5% increased pet damage
+
+-----2020/9/05-----
+
+Nerfed the 10th level stat bonuses.
+
+Nerfed spell Veteran Enchantment (90144) | Aborbs 534 damage down from 834
+
+Fixed typos in items Tome of Intellect... I - VI
+
+-----2020/8/03-----
+
+Buffed Servants of... in Blasted Lands
+
+Added Disenchant Ids to various items.
+
+Buffed item Bloodied Battleaxe (90619) | 2 RPPM was 1.
+
+-----2020/7/03-----
+
+Buffed item Barovian Family Sword (14541)
+
+Added two new items as a reward for completing the quest Rise of the Silithid (4267)
+
+-----2020/7/02-----
+
+Made new items for vendor Stephan Burdensnatch (190116).
+
+Item ID range 90784- 90796
+
+Items include, Librams, Idols, Totems, a wand, and two shields.
+	Each cost 15 Enigmatic Tokens(90681)
+
+New extended item id (3080) for the new items.
+
+-----2020/7/01-----
+
+Winds of Wisdom 100% experience buff is now over.
+
+-----2020/6/25-----
+
+Buffed Spell Thorns (15438) | Used by items Naglering (11669) and Drillborer Disk (17066)
+
+Buffed npcs in heroic deadmines
+
+Added a new spell to Sneed and Miner Johnson in Heroic Deadmines
+
+Reduced exp gained from bosses in Heroic Deadmines.
+
+-----2020/6/13-----
+
+Nerfed item Silvia's Signet of Stealth (90585) | Increased cooldown for on use
+
+Buffed item Archeus | Slower weapon speed + more weapon damage. Buffed weapon proc
+
+-----2020/6/12-----
+
+Buffed item Gnarled Ash Staff (791)
+
+Buffed npc Sentinel Amarassan (5916)
+
+Added rares to Sentinel Amarassan's drop table
+
+Buffed npcs within The Talon Den.
+
+Added new quests for the Horde military questline.
+
+Added new items for quests in the Horde military questline.
+
+Buffed quest rewards that require going into The Talon Den & The Peak.
+
+Buffed various npcs within Stonetalon Peak.
+
+-----2020/6/10-----
+
+Slight buff for mob hp from 1-60
+
+100% experience buff going away July 1st.
+
+-----2020/5/28-----
+
+Nerfed Feathermoon Ferry crew levels.
+
+Buffed item Quintis' Research Gloves (11888)
+
+Buffed item Bark Iron Pauldrons (11889)
+
+Added a new quest.
+
+Added a new item that drops off a rare.
+
+Buffed item Julie's Dagger (6660)
+
+-----2020/5/25-----
+
+Nerfed items Grandstaff of Wisdom | Lowered the amount of damage they did.
+
+-----2020/5/21-----
+
+Npc Rageclaw (7318) | Now an elite.
+
+Buffed spell Thorns | Increased duration, increased damage, and reduced mana cost.
+
+-----2020/5/09-----
+
+Winds of Wisdom now active. All experience gains now boosted by 100%.
+
+creature_classlevelstats has been reset to its default 3.3.5 state.
+
+Disabled AH buyer bot.
+
+-----2020/5/01-----
+
+Buffed spell Uther's Light (8397) | Increased proc chance to 5% from 2%.
+
+Buffed spell Uther's Light Effect (10368) | Scales up to 60 was 35. Goes up 3 dmg per level 
+	was 2.3
+
+-----2020/4/28-----
+
+Nerfed spell Venomous Strike (90030) | Ticks every 3 seconds was every 1. Damage is now 15 per 
+	stack down from 30.
+	
+Buffed npc Kirith the Damned (7728) | Now Rare Elite, 5x hp, 3x damage, and 5x experience.
+
+-----2020/4/24-----
+
+Fixed npc Deep Dweller (5467) | Won't evade underwater anymore.
+
+Fixed typos in the various permanent stat increase tomes.
+
+Enabled the AH buyer bot.
+
+-----2020/4/22-----
+
+Buffed npc Grunter (8303) | deals twice the amount of damage as he used to.
+
+Buffed npc Clack the Reaver (8301) | deals twice the amount of damage he used to.
+
+Buffed spell Venom Sting (5416) | stacks up to 5 times and its damage is increased.
+
+Buffed npc Magronos the Unyielding (8297) | 2 times extra damage and a bit more hp.
+
+Buffed npc Dreadscorn (8304) | 2 times extra damage and a tiny bit more hp.
+
+-----2020/4/18-----
+
+Spell Call of the Grave (12020) | Increased the damage per level to 20, was 10.
+
+Adjusted a bunch of NPCs levels. Mostly vendors, innkeepers, bankers, etc.
+
+-----2020/4/10-----
+
+Added new rewards for quest An Ambassador of Evil (762).
+
+-----2020/4/09-----
+
+Made it so the extra experience gained from killing higher level monsters isnt granted to
+	party members more than 59 yards away from you.
+
+Various tweaks to spells, tooltips, quests, and items.
+
+-----2020/3/28-----
+
+Added 2 new set to compliment the paladin ZG set. Prot and Ret now have their own set.
+
+Added new Tier Tokens for Molten Core. Along with a vendor who will take the tokens for
+	the actual set item.
+
+
+-----2020/3/13-----
+
+Completely redid the loot tables for the monsters on Purgation Isle. They now also drop 'Undead Slaying' sets.
+
+Corrected the tooltip for Pursuit of Justice (Paladin Talent) | Now properly reflects how it actually works.
+
+-----2020/3/09-----
+
+Buffed the item set bonuses of the Undead Slaying varity.
+
+-----2020/2/23-----
+
+Buffed the items from the set Battlegear of Undead Slaying.
+
+Buffed the items from the other armor type sets of Undead Slaying.
+
+Buffed various level 60 end game dungeon epics.
+
+-----2020/2/23-----
+
+Buffed item Ta'Kierthan Songblade(16039) | Swapped the damage values. Now the majority of its damage is arcane. Added 10 hit rating,
+	and 12 spell penetration.
+
+Buffed item Rock Golem Bulwark (11785) | Now gives 20 stamina, 20 nature/arcane resistance.
+
+Buffed item Second Wind (11819) | On use effect cooldown lowered to 2 minutes was 15 minutes
+
+Removed several items from the AH bot.
+
+Added more capacity to the AH
+
+Buffed item Gold-plated Buckler(90626) | +1 extra block
+
+-----2020/2/10-----
+
+Fixed a typo in the name of item 90639 (Blackened Defias Armor)
+
+Redid Deadmines in Atlas Loot Enhanced.
+	Now shows Heroic items.
+
+-----2020/2/09-----
+
+Edited Atlas Loot Enhanced to have some of my custom items on it.
+	Notably Gelkis and Magram under the Original WoW Reputation Factions.
+
+-----2020/2/08-----
+
+Several level 60 spells were taken off their trainers. You must now get their respective tomes.
+
+Nerfed Spell Blessing of the Quel'dorei | No longer grants +1 extra damage absorbed per level.
+
+-----2020/2/01-----
+
+You can now gain reputation from killing the Centaur clans up to Revered | Was Friendly.
+
+ 
+-----2020/1/29-----
+
+Finished with the Magram / Gelkis reputation vendors for now.
+
+Each vendor has 7 items. Consisting of 1 type of food, several pieces of armor and weapons,
+	along with a large bag. Check them out in Desolace! And remember you can only choose one
+	faction.
+
+Adding more rep to quests / kills for these factions in the future.
+
+
+-----2020/1/28-----
+
+Added some loot to Lunar Festival World boss Omen (15467)
+
+Added 4 new items to the Magram vendor in Desolace.
+
+-----2020/1/26-----
+
+Fixed the flavor text on the horde medallions.
+
+Fixed some typos in the completion text of quest Old Whitebark's Pendant (8474).
+
+-----2020/1/25-----
+
+Tweaked Bloodthistle and Bloodthistle Withdrawl.
+
+Buffed NPC Old Witherbark (15409) | Is now an elite, level 11 up from 10, and has had its DMG, HP,
+	and EXP buffed.
+
+Fixed a bug with Hardcore Mode | Now properly gives spell hit along side melee and ranged hit.
+
+-----2020/1/13-----
+
+Mistakenly put Enigmatic Token (90681) on vendors corrected to Ethereal Essence (90664).
+
+Lowered the level of Deathguard Elite (7980) | Now level 60 was level 70.
+
+Lowered the levels of Crewman Coilspan (31705), Crewman Spinwheel (31704), 
+	and Crewman Stembolt (31706) | Now level 38 were level 72.
+	
+Lowered the levels of Deathguard Hicks (31715) and Deathguard Barth (31708) | Now level 68 were 75.
+
+Lowered the levels of Deathguard Fowles (25079) and Deathguard Lawson (25083) | Now level 68 were 75.
+
+Plus lots of others...
+
+-----2020/1/11-----
+
+Changed name of Enigmatic Tokens (90681) to Enigmatic Token.
+
+Added Enigmatic Token to Horthus (3323) in Orgimmar and Owen Vaughn (1308) for one gold.
+	Developer Note:
+		This is so that if players want they can pay gold to transmog and not have to 
+		farm dungeons for the currency.
+
+
+-----2020/1/09-----
+
+Lowered the level of Booty Bay Bruiser (4624) | Now level 55 was level 77.
+
+Lowered the level of Ratchet Bruiser (3502) | Now level 45 was level 57.
+
+Lowered the level of Argent Sentry (16378) | Now level 60 was level 70.
+
+Lowered the level of Cenarion Hold Infantry (15184) | Now level 60 was level 70.
+
+-----2020/1/08-----
+
+Lowered the level of Steamwheedle Bruiser (16096), Watcher Umjin(25107), and Watcher Du'una(25106)
+	| Now level 60 was level 75.
+
+Lowered the level of Grom'gol Grunt (1064) | Now level 40 was level 65.
+
+Lowered the level of Gadgetzan Bruiser (9460) | Now level 55 was level 77.
+
+Lowered the level of Gadgetzan Sniper (21448) | Now level 55 was level 67.
+
+Lowered the level of Katrina Turner (19860) | Now level 45 was level 70.
+
+Lowered the level of Max Luna (19859) | Now level 55 was level 70.
+
+Lowered the level of Everlook Bruiser (11190) | Now level 55 was level 77.
+
+-----2020/1/06-----
+
+Added three new items.
+
+Added a dummy spell for the new experience crystal.
+
+Added a script to go with the dummy spell.
+
+-----2019/12/29-----
+
+Auction house bot reenabled. But its not as generous as it used to be.
+
+
+-----2019/12/28-----
+
+Changed up the reward from the daily quest to now give a voucher for a vendor in Booty Bay.
+	Turn in the voucher in Booty Bay for a nice piece of armor.
+
+Changed quest text to reflect the above change.
+
+New item Leather Armor Voucher (90718) for above change.
+
+Added back lots of bindings. Mostly to raid drops.
+
+Quest rewards to have their bindings removed soon. They just need a level requirement. This will 
+affect most quest rewards but not all.
+
+
+-----2019/12/22-----
+
+Removed bindings on lots of items.
+
+Added a daily quest in the wetlands to kill Razormaw Raptors.
+
+Added various items for the said daily quest.
+
+Will be adding back bindings to various items over time but just the items that have been mistakenly unbound.
+
+
+-----2019/12/20-----
+
+Made all dungeon set 1 pieces non-binding. Not BOE, not BOP, and not BOA.
+	Developer Note:
+		I plan on doing this for many other items as well. Basically all non quest rewards / raid drops.
+
+
+-----2019/12/19-----
+
+Tweak the HP / Damage values of the raptors in Raptor Ridge.
+
+Added spell Thrash to two monsters in raptor ridge.
+
+Buffed two spells that the Razormaw Matriarch uses.
+
+
+-----2019/12/18-----
+
+Started on the Horde Army quest line. Two quests down a bunch to go.
+
+Increased monster aggro radius, was 70% is now 80%.
+
+Modified the extra EXP script.
+
+
+-----2019/12/03-----
+
+Went through the EXP per level required and redid things. 1-10 is unchanged. Everything else got some
+	changes. Most levels got reduced EXP requirments but they are still well above the Vanilla EXP
+	requirements.
+
+Buffed HP, Damage, and EXP for all bosses in Heroic Deadmines. Lowered the EXP gained from the regular units.
+
+Lowered the amount of gold dropped by the regular units in Heroic Deadmines. Now they will only drop 5-7 silver.
+
+
+-----2019/12/01-----
+
+Changed Stonemother's Blessing (90160) | 6% health every 5 seconds instead of flat hp/5 + 2 a level.
+
+Modified Glyph of Crusader Strike | Now increases the damage done by Crusader Strike by 14% instead of lowering
+	the mana cost by 20%.
+	
+Added some hidden content. Nothing major.
+
+
+-----2019/11/07-----
+
+Nerfed NPC Ravaged, Mangled Cadaver (10381, 10382) | 4x HP and 3x damage was 6x and 5.25x respectively.
+
+Changed the VASAutoBalance settings. Nerfed all dungeons.
+
+Buffed Ashbringer.
+
+-----2019/11/06-----
+
+Attempt at making Malaka'jin Inn work properly.
+
+Updated monsters around Karazhan so they aren't level 70.
+
+Added reputation vendors for the Magram / Gelkis Centaur clans. Only food available for them currently.
+
+
+-----2019/11/05-----
+
+You can now obtain Recipe: Soul Enhancing Elixir (90651) | Drops from random mobs around the world. Lets you 
+	learn a brand new alchemy recipe!
+
+Added some thorium veins in Heroic Deadmines.
+
+Attempt at making Heroic: Deadmines achievement.
+
+Added new loading screen tips.
+
+
+-----2019/10/24-----
+
+Added new itemset Scorpid Hide Garb (904) | Added 7 pre-existing items Tough Scorpid items. Buffed said 7 items as well.
+
+Buffed Band of Pure Might (90685) | +4 strength
+
+
+-----2019/10/21-----
+
+Added 5 new necklaces to Stephan Burdensnatch for Enigmatic Tokens.
+
+Nerfed the 5 new rings to be Rare and item level 65. Down from Epic and item level 70.
+	The new necks match this change. Stats are unaffected.
+
+Re-itemized the Soulforge set. Now focuses on attack power and health regen over spell power and mana regen.
+
+Re-itemized the Lightforge set. Lowered the amount of intellect on some items and replaced that with hit rating.
+	Also removed agility and added health regen instead.
+
+Re-itemized the Beaststalker set. Now has no strength or spirit but more agility and hit rating.
+
+Re-itemized the Battlegear of Valor & Heroism set. Removed all agility and repalced it with health regen.
+
+Added hit rating to mutliple items in the Shadowcraft set. Also added Stealth 5 (17746) to the boots.
+
+New spell Increased Hit 5 (90178) | Increases hit rating by 5.
+
+Buffed spell Stealth +8 (27037) | Now is +20
+
+Buffed spell Increased All Resist 08 (41843) | Now is +20 to all resistances
+
+Made the 2 set bonus for all Dungeon 2 sets be spell 41843 or +20 to all resistances. Was +8 and various different spells.
+
+TODO:
+	Finished Re-itemizing the other dungeon sets and maybe tier 1 and 2 as well.
+	Warlock, Shaman, Priest, Mage, Druid, Rouge(2), need hit. Druids need a bit of fixing some items have weird Mp/5.
+
+
+-----2019/10/19-----
+
+Buffed Spell Increased Mana Regen (21363) | Was 6 MP/5 is now 10.
+	Note: This change affects 96 different items.
+
+Buffed Spell Vitality (21596) | Was 5 HP/5 is now 17.
+	Note: This change affects 5 different items.
+
+Buffed Item Shard of Afrasa (10659) | Is now Rare quality. The above to changes affect this item.
+
+Added 5 new rings to be sold by Stephan Burdensnatch for Enigmatic Tokens.
+
+Updated Stephan Burdensnatch's gossip text.
+
+-----2019/10/16-----
+
+Nerfed Item Grandstaff of Wisdom (90655) | 20 intellect down from 24, 7 spell power down from 17, 10 stamina down from 11.
+	100 - 127 damage down from 112 - 187.
+
+Nerfed Item Cloak of the General (90656) | 5 strength down from 11, 4 stamina down from 9, and 18 crit rating down from 22.
+
+	Developer Note: This change is due to the fact we've had the old iteration of these items for ages now and while these
+	should be a direct upgrade, I don't want to have them forever. Future nerfs to come after the players aquire these or
+	as necessary.
+
+Buffed Creature Sewer Beast (3581) | 5x damage up from 1x.
+
+-----2019/09/24-----
+
+Buffed Spell Ramstein's Lightning Bolts (17669) | Was 200 damage is now 800 damage. 2 minute cooldown down from 5 minutes.
+
+Buffed Spell Diamond Flask (24427) | 150 attack power was 75 strength, 15 Hp/5 was 9, and cooldown is now 2 minutes was 6.
+	Removed shared 1 minute cooldown.
+
+Buffed Item High-powered Flashlight (45631) | 25 hit rating was 24 and +3 stamina was +0.
+
+Buffed Item Devilsaur Eye (19991) | No longer has a shared 1 minute cooldown.
+
+New Item Bag of Trinkets (90682) | Test item for a bag of semi-deterministic loot.
+	Developer Note: This is a possible additonal loot system. This bag is for melee trinkets but 
+		has a few items that can drop. They can also be warforged (My friends would be pissed if
+		they heard this). But for now I'll need to make more types of gear that can drop. I don't 
+		plan on having more than 10 items in a single bag.
+
+-----2019/09/22-----
+
+Spell Mithril Frag Bomb (12421) | Buffed damage from 149 - 201 to 201 - 253. And stun is now 3 seconds.
+
+-----2019/09/18-----
+
+Changed the warforging script to have less chance to get more than 2 enchants.
+
+Removed the + Weapon skill enchants from the warforging possibility list.
+
+Attempt to fix some pathing issues with npcs in Feathermoon Stronghold and in the Maze.
+
+-----2019/08/29-----
+
+Troll racial Regeneration (20555) buffed | 50% increased health regeneration and 50% allowed through combat. Up from 30%/30%.
+
+-----2019/08/25-----
+
+Made more materials stack up to 200.
+
+Buffed spell Pathfinding Rank 1 and 2 (19559 & 19560) | Now gives 8% and 16% bonus to Aspect of the Cheetah & Pack respectively.
+
+Changed Quest Worgen in the Woods (222 & 223) | Better reflects the elite monsters required for the quest. Better rewards over all.
+
+Item Consecrated Wand (5244) buffed | +1 intellect and +3 damage.
+
+Item Cloak of the Faith (2902) buffed | +3 armor, +1 stamina, +5 strength, and -4 spirit.
+
+Item Shield of the Faith (1547) buffed | +6 stamina, +36 armor, +2 block
+
+-----2019/08/24-----
+
+Fixed a bunch of miscellaneous errors.
+
+Added a few new custom gossips.
+
+Nerfed the level of Stormwind City Guards (68), Orgrimmar Grunt(3296 & 31416), Kor'kron Overseer (36213),
+	Bluffwatcher (3084), Silvermoon City Guardian (16222), Ironforge Guard (5595), Darnassus Sentinel (4262),
+	and Exodar Peacekeeper (16733) | Now level 65 was 75.
+
+Tweaked quite a few HP / damage values for various monsters / bosses in Molten Core & Zul'gurub.
+
+Edited the Random Enchant Script (Henceforth called Warforged) | Added a 5th possible bonus. Reduced the increased chance
+	that Rare / Epic items used to give. Rares now give a 20% extra chance per roll and Epics give a 50% extra bonus. 
+	Was, Rare 200% and Epic 300%. Will tweak if needed in the future.
+
+-----2019/08/22-----
+
+Added 4 more custom enchants (4001-4004) | +2,3,4, and 5%.
+
+Added a custom currency Enigmatic Tokens (90681) | To be used to purchase the custom enchants. Drops from last bosses of 
+	level 60 dungeons and all bosses in raids.
+
+New NPCs 190114 - 190116.
+
+-----2019/08/21-----
+
+New NPC Gonak Thrul'zar (190113) | Repair vendor
+
+Nerfed Spell Hardcore Mode | Now only grants 50% extra attack power. Spell power is the still the same at 100%.
+	Developer Note:
+		There was a massive difference between a melee hardcore character and a caster one. Melee classes tended to obliterate 
+			npcs even 10+ levels ahead of them while casters had a much tougher time. Will continue to monitor their 
+			performance and will make tweaks if necessary.
+
+Fixed a typo in spell Blessing of the Quel'dorei
+
+New Custom Enchant +1% to all stats (4000) | Testing out a new enchant scroll. Works on any item.
+
+-----2019/08/20-----
+
+Many reagents & consumables are now now stackable up to 200.
+
+-----2019/08/19-----
+
+Fixed typo in spell Blessing of the Quel'dorei.
+
+-----2019/08/17-----
+
+Nerfed Blessing of the Stonemother | 2 extra HP/s a level down from 5.
+
+Nerfed Corrupted Quel'dorei Crest | Absorbs 300 + 1 per level down from 500 flat.
+	Developer note:
+		The item was too strong for a level 21 item. I tried reducing the proc rate which helped but in the end 
+		nerfing the total amount it absorbs is the most effective way to get it back around where it should be.
+
+
+-----2019/08/15-----
+
+Reduced the rate of rested experience gained.
+
+Tweaked a few HP values nothing should be noticeable.
+
+Added Fury of the Firelands (90164) | Activateable spell from Ragnaros if he is your chosen patron.
+
+-----2019/08/14-----
+
+Lowered the amount of bonus experience gained from killing monsters 20 - 40 above your level.
+
+Fixed a visual sheathing bug for Corrupted Quel'dorei Crest (90586)
+
+-----2019/08/13-----
+
+Added the new Uncommon (Green) crossbows to a Horde vendor in Undercity named Benijah Fenner (4602).
+	He can be found in the War Quarter near the Weapon Master.
+
+Added custom gossip text to Miola Sedina (190112).
+
+Fixed quest complete dialog for "Deliver the Plans to An'telas" (9166)
+
+Fixed quest "The Rescue" (498) | Drull actually needs the key to be freed.
+
+Fixed Mysterious Tome (30000) | No need for extra item anymore. Horde Version Soon(TM)
+
+NPC Muck Frenzy (8236) | Now levels 24 - 25 was 14 - 15.
+
+Added a custom Graveyard for Fray Island.
+
+Buffed all items sold by Sizzi Vitalik in the Maze. They are now roughly equivalent to level 45 rares
+
+Five new rings Steelbound Ring, Silk Woven Band, Thin Kodo Hide Band, Silverbound Circle, and Bloodied Battleband
+	(90671, 90672, 90673, 90674, 90675) | To be purchased with Gang Cards.
+	
+Two new spells Flash Heal and Restore Mana (90162 & 90163) | To be used on the new rings.
+
+Fixed some typos in Sizzi Vitalik's gossip.
+
+-----2019/08/12-----
+
+Auction House Bot is going on vacation for a while.
+
+NPC Kel'gash the Wicked (16358) buffed | 2x HP was 1x and 3x damage was 2x.
+
+Item Well Crafted Long Bow (23409) buffed | 22 - 41 damage was 20 - 39 and now has +1 agility was +0.
+
+Item Well Crafted Sword (23410) buffed | 21 - 36 damage was 17 - 32.
+
+Item Well Crafted Staff (23411) buffed | +2 intellect was + 0.
+
+Item Well Crafted Shiv (90668) added | Now a reward option from quest Bring Me Kel'gash's Head (9215).
+
+NPC Cael Deacon (190068) buffed | Now level 50 was 38
+
+NPC Ruffian (190067) and Thug (190105) buffed | Now levels 45 - 49 was 34 - 37
+
+NPC Sizzi Vitalik (190069) buffed | Now level 48
+
+NPC Cazulik'Dazulum'Shatuk (190106) buffed | Now level 52
+
+Spell Hardcore Mode (90133) modified | Tooltip now accurately displays what all of its affects are. Hit Chance % reduced to 50% was 75%.
+
+NPC Miola Sedina (190112) | New Inkeeper for Farstider Enclave in Ghostlands.
+
+Item Corrupted Quel'dorei Crest (90586) nerfed | 8 Hp/5 was 35.
+
+Made a bunch of Leather and Cloth Crafting items stackable up to 200.
+	Developer Note: 
+		More Trade Goods to follow.
+
+Spell Battle Shout ranks 6 - 9 (11551, 25289, 2048, 47436) buffed | Duration is now 8 minutes up from 2.
+
+-----2019/08/10-----
+
+Buffed Sulkar Deathbringer (190065) | More HP and Damage. Too little compared to elites of a similar level.
+
+Item Sin'dorei Longblade (90667) | One handed sword is now a reward option from The Traitor's Destruction (9167).
+
+
+-----2019/08/09-----
+
+Added new custom spells Stonemother's Blessing (90160) and Fury of Deepholm (90161) | Future Patron God spell.
+
+-----2019/08/06-----
+
+Item Teleportation Scroll: Zorian can now be purchased from a vendor for a modest fee.
+
+Item Ethereal Essence (90664) now drops from Heroic Edwin VanCleef.
+
+
+-----2019/08/02-----
+
+Crusader Strike (35395) | Reduced damage done from 100% weapon damage to 75%. And mana cost is 1% was 5%.
+	Developer Note:
+		This change is made to put Crusader Strike's damage back to what it is in default 3.3.5. A long time ago
+		it was buffed to 100%. As the ability can be gained at level 20 by all Paladins and doesn't require
+		any talent points in Retribution as before it feels justified to nerf it back to its original state.
+		It is now a cheaper spell to cast as mana cost shouldn't be a huge factor in a Paladin's decision making.
+		
+Sanctity of Battle (35397) | Buffed Rank 3 to give 20% damage to Crusader Strike was 15%.
+
+New item Libram of the Crusade (90665) | Crusader Strike does +19 damage.
+
+Added disenchant values to various custom items.
+
+Vastly increased the amount of experience required for levels 20-50.
+
+Added a way to convert Small Glimmering Shard (10978) and Small Glowing Shards (11138) into their
+	larger counterparts.
+
+Two new extended ids for Small Glimmering and Glowing Shards (3046 and 3047 respectively).
+	
+NPC Aethura (190111) created.
+
+-----2019/07/31-----
+
+Besseleth (11921) | Now elite and level 22.
+
+Claystone Shortsword (16891) | Now does 20 - 34 damage was 16 - 30.
+
+Clear Crystal Rod (16894) | Now +7 int and +2 stam was +5 and +4 respectively.
+
+Claystone Spear (90662) | New Polearm to be a reward from Arachnophobia (6284).
+
+Fixed the gossip on Corpse Laden Boat and Wanted Poster: Besseleth
+
+Maiora Songheart (190109) | Added new rare in Stonetalon.
+
+Added various waypoints for monsters in Heroic Deadmines.
+
+Added Maiora's Glaive of Everburn (90663) | Drops from Maiora.
+
+Added Ethereal Essence (90664) | To be used as a currency for transmog. Transmog will no longer cost gold.
+	Planned to be dropped from last bosses of level 60 dungeons.
+
+-----2019/07/29-----
+
+Tweaked AH settings
+
+Evened out the hp gain from 20. Slowly increases up to full by level 26.
+
+-----2019/07/25-----
+
+Increased the HP and damage of all units level 20 and above
+
+Reduced the overall HP and Damage of monsters
+	Developer note: This should be roughly the same damage and HP as before the change on the 23rd but
+		this will only affect monsters level 20 and above.
+
+
+-----2019/07/23-----
+
+Testing some stack size changes.
+
+Linen, Wool, Silk, Mageweave, Rune, Fel, and Mooncloth now stack up to 200.
+
+Modified some unit settings | Unit aggro radius increased. Unit respawn timer increased.
+	Increased unit HP and Damage.
+
+
+-----2019/07/22-----
+
+Reduced the cast time of Learning (482) | Is now 10 seconds was 20.
+
+-----2019/07/19-----
+
+The Green Tower (17154) spell has been redone. | No longer proc chance. Just base thorns damage. Thorns damage
+	has been buffed.
+
+Added Imbued Light Crossbow (90659), Imbued Fine Light Crossbow (90660), and Imbued Heavy Crossbow (90661).
+	They are Uncommon (Green) Crossbows meant to be sold by a vendor. Currently being sold by Marda Weller (1287)
+	in Stormwind. Will be adding another vendor for the Horde later.
+	
+Fixed up the old random enchantment script. Now only affects Uncommon+ items and also doesn't affect non weapon
+	or non armor items. Not all enchants are created equal! Good luck and may RNGesus be with you.
+	
+Fixed various enchantment ids that were invalid.
+	
+Added waypoints for some of the Golem Protectors (190108).
+
+-----2019/07/18-----
+
+Lowered the amount of epics sold on the AH substantially and the amount of rare items were reduced moderately.
+	Developer Note:
+		This change is to accompany the buff to many BoE epics that can be bought on the auction house. I will
+		be also nerfing the amount dropped from world monsters in the future.
+
+-----2019/07/17-----
+
+Increased the honor price of level 60 PvP items:
+	15,000 is now 20,000. 9,000 is now 14,000. 3,000 is now 5,000 and 5,000 is now 7,000. 25,000 is now 35,000
+	and 13,000 is now 23,000
+
+Increased the honor price of level 70 PvP items:
+	16,000 is now 21,000, 12,000 is now 17,000, 18,000 is now 23,000, 13,000 is now 18,000, 36,000 is 
+	now 41,000, and 21,000 is now 26,000.
+	
+Iron Ring (90658) | Added to game.
+
+-----2019/07/16-----
+
+Buffed Teebu's Blazing Longsword (1728) | Buffed proc spell. 10 stamina was 0 and 12 hit rating was 0.
+
+Buffed Cloak of Flames (3475) | 25 fire resistance was 15. 17 stamina was 0.
+
+Buffed Alcor's Sunrazor (14555) | 30 fire resistance was 10. Proc changed to on use. Now does 665 to 715 damage
+	and has a 2 minute cooldown. 14 intellect was 0, 16 spellpower was 0, and 9 Mp/5 was 0.
+
+Buffed Hand of Edward the Odd (2243) | 10 stamina was 0, 0 spirit was 10, 21 attack power was 0, 0 intellect
+	was 13.
+
+Buffed Sash of Mercy (14553) | 24 intellect was 0.
+
+Buffed Skullflame Shield (1168) | 30 fire and shadow resistance was 10. 2993 armor was 2593, 57 block was 53, 
+	11 stamina was 0, 15 defense rating was 0, and 17 Hp/5 was 0.
+
+Buffed Dwarven Hand Cannon (2099) | Proc now does 93 to 109 damage up from 33 to 49. 7 agility was 0 and
+	9 hit rating was 0.
+
+Buffed Axe of the Deep Woods (811) | 13 attack power was 0 and 8 haste rating was 0.
+
+Buffed Krol Blade (2244) | 16 strength was 7 and 9 stamina was 5. 90 to 149 damage was 80 to 149.
+
+Buffed Stockade Pauldrons (14552) | 6 Hp/5 was 0.
+
+Buffed Hammer of the Northern Wind (810) | 31 haste rating was 0.
+
+Buffed Stonerender Gauntlets (17007) | 29 nature resistance was 10, 20 Mp/5 was 0, 0 spirit was 20,
+	4 stamina was 10, and 14 intellect was 10.
+
+Buffed Wall of the Dead (1979) | Proc is now 850 armor was 150 and lasts 30 seconds was 20. 44 block was 41, 
+	2326 armor was 2226, 19 stamina was 10.
+
+Buffed Precisely Calibrated Boomstick (2100) | 58 to 76 damage was 48 to 56. 19 agility was 14.
+
+Buffed Warden Staff (943) | 510 armor was 260. 22 stamina was 11 and 14 Hp/5 was 0.
+
+Buffed Flurry Axe (871) | 9 attack power was 0 and 6 crit rating was 0.
+
+Buffed Boots of Avoidance (14549) | 16 strength was 14.
+
+Buffed Gloves of Holy Might (867) | 70 attack power vs undead was 30. 5 stamina was 0.
+
+Buffed Dazzling Longsword (869) | 6 attack power was 0. 47 to 80 damage was 37 to 70.
+
+Buffed Firebolt (18086) | 250 to 260 damage was 150.
+	Developer Note: This spell is used by two items. Teebu's Blazing Longsword (1728) and Force of Magma (11803).
+		this buff will affect both of these items.
+
+Buffed Undead Slayer 30 (18074) | 70 attack power up from 30. Renamed to Undead Slayer 70.
+	Developer Note: This spell affects Gloves of Holy Might (867) and Eater of the Dead (10805). Both items
+		will be affected by this change.
+
+Tweaked Auction House Bot settings.
+
+Buffed Great Stamina (Pet Talents) | 5/10/15% extra stamina was 4/8/12%.
+
+Buffed Blood of the Rhino (Pet Talents) | 5/10% extra stamina was 2/4%. 25/50% extra healing on pet was 20/40%.
+
+Buffed Beast Mastery (53270) |  Gives 8 Pet Skill Points up from 4.
+
+Buffed Natural Armor | 10/20% extra armor, was 5/10%.
+
+-----2019/07/15-----
+
+Forced several items to be sold on the AH. Several quivers / ammo pouches. Along with corrosponding ammo.
+
+Buffed Lifestone Regeneration (5707) | 100 Hp/5 was 10. On use effect now heals 900 - 1200 and has a
+	two minute cool down was 300 to 700 and 30 minute cooldown.
+	
+Buffed Lei of Lilies (1315) | On use cooldown reduced from 1 hour to 2 minutes and restores 725 to 875 mana
+	 and health instead of 525 to 675. Mp5 +17 was 0.
+
+Buffed Myrmidon's Signet (2246) | 15 strength was 10, 13 agility was 7, and 23 attack power was 0.
+
+Buffed Taran Icebreaker (2915) | 8 strength was 0, 12 stamina, was 0, and 17 intellect was 0.
+
+Buffed Brain Hacker (1263) | Proc: 300 to 400 was 200 to 300 and -75 intellect was -25. +20 strength was 0.
+
+Buffed Jeweled Amulet of Cainwyn (1443) | 24 intellect was 19, 15 spirit was 10, 10 stamina was 8, and
+	19 spellpower was 0.
+
+Buffed Elemental Mage Staff (944) | 40 Fire and Frost Resistance was 20. 7 stamina was 0 and 14 intellect was 0.
+
+Buffed Shadowblade (2163) | 12 agility was 0 and 22 attack power was 0.
+
+Buffed Edgemaster's Handguards (14551) | 22 hit rating was 19, 22 expertise rating was 17, and 16 attack power
+	was 0.
+	
+Buffed Bloodrazor (809) | 6 stamina was 0, 27 attack power was 0, and 9 expertise rating was 0.
+
+Buffed Kang the Decapitator (2291) | 12 stamin was 0, 19 strength was 0, and 6 hit rating was 0.
+
+Buffed Blackskull Shield (1169) | 30 shadow resistance was 10, 2763 armor was 2163, 25 stamina was 5, 0 spirit
+	was 10, and 12 defense rating was 0.
+	
+Buffed Ring of Saviors (1447) | Cooldown: 1000 armor up from 300 and cooldown is 3 minutes was 30. 125 armor
+	was 0, and 11 dodge rating was 0.
+
+Buffed Gut Ripper (2164) | Proc: 115 to 141 damage was 95 to 121. +9 crit rating was 0.
+
+Buffed Icemail Jerkin (1981) | 366 armor was 336, 51 frost resistance was 10, 5 spirit was 24, 24 agility was 5,
+	and 4 hit rating was 0.
+	
+Buffed Nightblade (1982) | 9 strength was 0 and 14 stamina was 0.
+
+Buffed Shadow Bolt (18211) | 225 to 375 damage was 125 to 275.
+	Developer note: This spell is used by three different items Ebon Hand (19170), Doombringer (13053),
+		and Nightblade (1982). This buff will effect all three items.
+
+Buffed Ardent Custodian (868) | 200 armor was 100, 15 stamina was 0, 15 block rating was 0, and 23 Hp/5 was 0.
+
+Buffed Bow of Searing Arrows (2825) | Proc: 32 to 42 damage was 18 to 26. 6 agility was 0 and 12 attack power was 0.
+
+Next BoE Epics to be buffed: Cloak of Flames (3475), Hand of Edward the Odd (2243), Sash of Mercy (14553), 
+	Dwarven Hand Cannon (2099), Axe of the Deep Woods (811), Krol Blade (2244), Hammer of the Northern Wind (810),
+	Warden Staff (943), Gloves of Holy Might (867), Dazzling Longsword (869), Teebu's Blazing Longsword (1728),
+	Stonerender Gauntlets (17007), Wall of the Dead (1979), Skullflame Shield (1168), Stockade Pauldrons (14552),
+	Flurry Axe (871), Alcor's Sunrazor (14555), Precisely Calibrated Boomstick (2100), and Boots of Avoidance (14549)
+
+-----2019/07/14-----
+
+Nerfed all extra exp gained from killing higher level monsters than you. 
+	Developer note: The goal of the extra experience is to both to incentivize trying to kill hard monsters and to
+		add a system that just makes sense logically. If you kill a monster far stronger than you you should 
+		recieve ample experience as a reward. However I noticed that it wasn't terribly hard to kill monsters
+		upwards of 30 levels higher without much challenge. Thus I've reduced the amount of experience gained over 
+		all brackets. Will keep an eye on it and adjust more if needed.
+
+-----2019/07/11-----
+
+Grandstaff of Wisdom (90655) | +17 spellpower was +0
+
+Grandstaff of Wisdom (90655) and Cloak of the General (90656) | both can be purchased with their old counterparts
+	and 2000 honor
+
+-----2019/07/09-----
+
+Fixed Magic Attunement | Now works on custom arcane spells. 
+
+Fixed Vigor (14983) spell name
+
+Krom'Grul (8977) buffed | Now elite, level 56 was level 54, health 2x was 1.3, damage 2x was 1x, and exp 3x was 1x.
+
+Quest "Krom'Grul" (3822) | Questlevel 58 was 53, minlevel 46 was 28, and rewardxpdifficulty 7 was 5.
+
+Sha'ni's Ring (11869) | 18 stamina was 10 and 19 mp5 was 0
+
+
+-----2019/07/08-----
+
+Changed Call of the Raptor (4546) to have infinite charges and a 1 minute cooldown.
+
+Dark Leather Gloves (4248) buffed | 4 agility up from 0, 2 stamina up from 0, and crit rating 4 up from 0.
+
+-----2019/06/29-----
+
+Fixed Soul Shard (90518) | Would delete itself after its useage was up. Removed usage limit as it should have been.
+
+Made Ascendancy ranks 1, 2, and 3 (90016 - 90018) visible in spell book.
+
+Fixed quest bugs with "Archmage Kazinski" (30005) and "This One is on Me" (30001) | Fixed item requirements.
+
+Fixed typo in Zorian Kazinski's gossip dialog.
+
+
+-----2019/06/26-----
+
+Added spell "Teleport: Zorian's Binding Stone" (90152) | Teleports user to set coords. Reward from future Zorian quest
+	(Not yet implemented)
+	
+Added Golem Protector (190108) | Zorian's Golems made to protect him and his allies (adding waypoints in future)
+
+Added custom gossip text to Zorian Kazinski (190055 && 50000)
+
+Made Archmage Rhydia (33696) is now level 90 | Going to make a custom NPC to replace her soon I think
+
+-----2019/06/22-----
+
+Removed Expert First aid, heavy silk bandages, and mageweave bandages from trainers
+
+Typo fixes in new questline.
+
+Increased experience required for levels 40+
+
+-----2019/06/22-----
+
+Attempt to fix Pursuit of Justice rank 1 and 2 | Wasn't increasing mount speed
+
+-----2019/06/20-----
+
+Changed Endurance (20550) Tauren Racial | Is now 20% stamina was 20% base health
+
+Addded "Hardcore Mode (3)" (90151) | +75% hit chance
+
+Lord Falconcrest (2597) | Now Elite, 2x hp up from 1.5, 2x dmg up from 1, and 3x experience up from 1.
+
+Otto (2599) | Now Elite, 1.5x hp up from 0.75, 1.5x armor up from 1x, 2x dmg up from 1, and 3x experience up from 1.
+
+Boss Tho'grun (2944) | Level 45, is now elite, 2x hp was 1.2, 3x damage was 1, and 3x experience was 1.
+
+Prince Galen Trollbane (2607) | Now Elite and quest giver
+
+Watcher Paige (499) | Now quest giver
+
+Justine Demalier (12481) | Now quest giver
+
+Added Alliance Soldier quest line up to Captain (30006 - 30023)
+
+-----2019/06/18-----
+	
+Tweaked the extra exp script once more
+
+Added more loot to the dragons in Grim Batol
+
+-----2019/06/09-----
+
+Reworked the extra experience script to take into account the player's level not just the level difference.
+	Will be tweaking in the foreseeable future.
+
+-----2019/06/08-----
+
+Added a transmogrifier and reforger npc next to the mage trainers in orgrimmar
+
+Buffed Arikara (10882) | Now an elite mob, 3x exp up from 1x, 2x health up from 1.15x, and 2x damage up from 1x.
+
+Arikara (5088) Quest | Suggested group number is now 2 up from 1. RewardXPID 9 was 5
+
+-----2019/06/07-----
+
+Ma'ruk Wyrmscale (2090) is now level 27 up from 23.
+
+Mangeclaw (1961) is now an elite, exp is 5x up from 1x, health is 1.1x was 1x
+
+Grawmug (1205), Brawler (1206), and Gnasher (1207) are now elites.
+
+In Defense of the King's Lands (217) | Questlevel 19 was 17, rewards 2 silver 23 copper, and RewardXPID is now 9
+	was 6.
+
+Buffed Frontier Britches (1436) | itemlevel 19 was 17, strength is 4 was 3, agility is 4 up from 3, and armor is 69
+	was 64.
+
+Buffed Lucky Trousers (1832) | itemlevel 19 was 17, spirit is 4 was 3, stamina is 3 was 2, and armor 29 was 27.
+
+Buffed Dwarven Defender (6187) | itemlevel 19 was 17, stamina is now 5 was 3, armor is 409 was 361, 
+	and block 7 was 6
+	
+Buffed Warchief's Girdle (5750) | itemlevel 27 was 23, required level 22 was 18, strength is now 6 up from 5, 
+	stamina is 4 was 4, and armor is 109 was 99.
+	
+Made a reference loot table for dungeon 1 gear, set to be placed on level 60 elite world monsters. 
+
+Added above reference loot table to Scalebane Lieutenant (1048), Wyrmkin Firebrand (1049), 
+	Scalebane Royal Guard (1050), and Lasizor Fullmantle (190104).
+
+Moved Lasizor Fullmantle (190104) to Grim Batol
+
+-----2019/06/06-----
+
+Made Highland Razormaw (1018) and Elder Razormaw (1019) elites also made them a higher level | Elder is 37 up from
+	29, Highland is 32-33 up from 27-28, and experience is 2x up from 1x
+
+Highland Matriarch is now level 40 up from 31
+
+Buffed Jurassic Wristguards (6198) | Required level 37 up from 25, sell price 31 silver 13 copper up from 
+	11 silver 13 copper, 11 agility up from 5, 6 strength up from 2, 61 armor up from 41,
+	max durability 45 up from 30, and disenchant id is 7 was 4.
+
+-----2019/06/05-----
+
+Buffed the experienced gained from monsters 20+ levels above you. | Doubled the 20-30 bracket and
+	buffed the ones above it slightly.
+
+
+-----2019/06/04-----
+
+The Green Tower (18097 & 17154) spell has been changed. | 20% proc up from 1, 10 damage each hit up from 3,
+	10 nature resistance down from 50. Spell can now stack up to 20 times.
+
+-----2019/06/03-----
+
+Fixed a bug in player_levelstats | Level 9 Warrior Strength value was off
+
+Buffed Tauren Warrior stamina values for certain levels
+
+Buffed The Green Tower (1204) | 16 defense up from 0, 50 nature value up from 0, 1607 armor up from 1507,
+	60 block up from 30, required level 31 down from 36, and buffed the associated spell
+	
+Added +100% spellpower to the "Hardcore Mode (2)" (90134) buff.
+
+
+-----2019/05/26-----
+
+Adjusting levels of various NPCs. Notably the Mages in the Mage Tower of Stormwind.
+
+Modified the Sewer Beast (3581) | level 58 up from level 50. Increased exp on kill. 
+	Added more items to its loot table.
+
+Buffed Zal'hakkar (190061) | HP x 8, DMG x 3
+
+Buffed Robes of Ingist (940) | CD is now 2 minutes down from 15, armor 88 up from 84, spell power 14 up from 0, and
+	intellect 33 up from 25
+	
+Buffed Cassandra's Grace (13102) | Armor 59 up from 55, spirit 12 up from 9, and intellect 6 up from 0.
+
+Buffed High Bregg Helm (13128) | Armor 241 up from 231 and critical strike rating 24 up from 15
+
+Added various items to the loot table to Zal'hakkar
+
+
+-----2019/05/22-----
+
+Reduced the honor cost of all items using extended id 841 | 200 down from 300
+
+Buffed item Vendetta (776), was very weak for its ilvl. | 23 - 43 up from 17 - 33 & +4 attack power
+
+Reduced the chance for AH bot to buy your stuff
+
+
+-----2019/05/19-----
+
+Added an item that removes the soulbind effect | Essence Encasing Stone (90539) [No way to get the item yet]
+
+Heartrazor (5934) rarespawn has had its heath modified reduced by half | 3x down from 6x
+
+Fixed bug where thrown weapons didnt have any range.
+
+Removed the reagent cost of Slow Fall.
+
+Added custom Arcane Mage Spell Feather Foot (90150)
+
+Buffed Master of Deception (Rogue Talent) 10/20/30 up from 5/10/15
+
+
+-----2019/05/18-----
+
+Human Racial "The Human Spirit" buffed | 3% to 5%
+
+All quests have had their minimum level requirement reduced by 10
+
+Draenei Racial Gift of the Naaru cooldown reduced to 2 minutes, down from 3 minutes.
+
+Draenei Racial Shadow Resistance buffed from 2% to 5%
+
+Added a custom item as a reward from quest "Arikara" | Ironwood Reed (90657)
+
+Buffed all throwing weapon damage by 50%
+
+Fixed prison complex death bug. You will now revive once you reenter the instance if dead.
+
+
+-----2019/05/17-----
+Buffed Feathermoon Sentinels(7939) and Shandris Feathermoon (3936) in Feralas.
+
+Added a custom NPC Aryna Moonwalker (190107) that paths around Feathermoon Stronghold along with two Sentinels.
+
+Nerfed Lord Lakmaeran's (12803) HP and damage.
+
+Tweaked the Auction House Bot Buyer settings a bit.
+
+Nerfed the amount of Gang Cards dropped from Prison Chest (400024).
+
+Buffed Myriam Moonsinger (12866) | Level 35 -> 45
+
+Added a custom Graveyard for the Prison Complex
+
+
+-----2019/05/16-----
+
+Fixed item 90557 (Ancient Quiver of the Kaldorei) | It's actually a quiver now.
+
+Nerfed Admin Set 90531 - 90533 | 5000 -> 100
+
+Nerfed the proc chance of 90656 & 90520 (Cloak of the General) | Was proccing way too much. Put it at a more reasonable level.
+
+Fixed 90618 (Key to Prison Complex) | Will now go into the keyring
+
+Changed 90617 (Gang Card) | It will now properly appear in the currency tab.
