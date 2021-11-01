@@ -1,3 +1,7 @@
+-----2021/11/01-----
+
+Fixed various errors.
+
 -----2021/10/29-----
 
 Tweaked stats for Lawbringer set to be healer focused. Changed 8 set bonus to proc on heal.
