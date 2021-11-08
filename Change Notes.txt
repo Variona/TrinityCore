@@ -1,3 +1,7 @@
+-----2021/11/07-----
+
+Buffed Spell Mithril Shield Spike (9782) | Deals 35 - 40 damage was 16 - 20.
+
 -----2021/11/01-----
 
 Fixed various errors.
