@@ -1,3 +1,49 @@
+-----2021/11/08-----
+
+Added npc that drops quest item for the quest Lost Feather.
+
+Added spells that the above npc will use.
+
+-----2021/11/07-----
+
+Buffed Spell Mithril Shield Spike (9782) | Deals 35 - 40 damage was 16 - 20.
+
+-----2021/11/01-----
+
+Fixed various errors.
+
+-----2021/10/29-----
+
+Tweaked stats for Lawbringer set to be healer focused. Changed 8 set bonus to proc on heal.
+
+Added DPS Lawbringer set.
+
+-----2021/10/28-----
+
+Fixed various errors.
+
+Added a bowyer vendor in The Park.
+
+Buffed Thunderfury (19019)
+
+Nerfed wand dps for most wands below ilvl 90.
+
+Buffed Ring of Spell Power (19147) | 44 spell power was 33
+
+Buffed Crimson Shocker (17077) | +24 spell power, +13 spell hit rating, +10 fire resistance
+
+Buffed Jaina's Firestarter (13064) | +1 int, +1 spirit, + 6 spell power
+
+Buffed Woestave (20081) | +1 stam and +4 spell crit rating
+
+-----2021/06/26-----
+
+Added Aviana and Malygos blessings.
+Added Allieth <Envoy of Wind>
+Added quest Lost Feather.
+Fixed VanCleef's Poison Vial proc.
+Added 4 new items to Heroic VanCleef.
+
 -----2020/9/15-----
 
 Fixed explosive sheep | They now blow themselves up on the enemy as intended
