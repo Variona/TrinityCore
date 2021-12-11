@@ -1,3 +1,14 @@
+-----2021/12/09-----
+
+Fixed an issue with spell Blessing of the Naaru(90232) | No longer considered 'negative'
+
+-----2021/12/05-----
+
+Buffed Impaling Harpoon (90644) | Now has +20 hit
+
+Buffed Felstone Good Luck Charm (13473) | Now gives +9 Spellpower and +6MP5
+
+
 -----2021/11/09-----
 
 Fixed issue #48 | Arcane Empowerment now applies its aura to raid members
