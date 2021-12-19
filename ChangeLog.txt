@@ -1,3 +1,13 @@
+-----2021/12/11-----
+
+Nerfed deific blessings.
+	Ragnaros: 10% fire damage increase was 100%. 20% crit chance with fire spells was 25%.
+	Therazane: 20% reduced damage taken was 25%.
+	Malygos: 10% arcane damage increase was 100%. 20% mana cost reduction for arcane spells was 25%.
+	Naaru: 10% holy damage increase was 100%. 20% increased damage vs undead and demons was 100%.
+	
+
+
 -----2021/12/09-----
 
 Fixed an issue with spell Blessing of the Naaru(90232) | No longer considered 'negative'
