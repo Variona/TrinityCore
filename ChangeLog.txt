@@ -1,3 +1,11 @@
+-----2021/12/27-----
+
+Added tome location for Light's Blessing.
+
+-----2021/12/21-----
+
+You can now swap blessings.
+
 -----2021/12/11-----
 
 Nerfed deific blessings.
