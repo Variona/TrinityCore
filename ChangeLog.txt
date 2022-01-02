@@ -1,4 +1,24 @@
+-----2021/12/29-----
+
+Reenabled the Seal of Ascension requirement to open the door to UBRS. 
+
+Added requirement to complete UBRS to enter Zul'Gurub.
+
+-----2021/12/28-----
+
+Band of Sulfuras (19138) buffed | Now has +16 spell power, was 0.
+
+Seal of the Archmagus (17110) buffed | Now has +17 spell power, was 0.
+
+-----2021/12/28-----
+
+Buffed Darkmantle set
+
+Reduced CD of Heart of the Scale (13164) | 5 minute CD was 30 minutes.
+
 -----2021/12/27-----
+
+Renamed Naaru's Blessing to Light's Blessing.
 
 Added tome location for Light's Blessing.
 
