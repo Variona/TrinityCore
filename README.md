@@ -9,7 +9,7 @@ There is no real level cap. (255 Hardcap but 86 softcap) The only limit is lack 
 
 Custom items, quests, spells, and more. These are all fairly blizzlike and nothing crazy like a funserver would be.
 
-Transmogrification is available. AH bot currently sells around 150 items.
+Transmogrification is available. AH bot currently offline.
 
 There isn't really an population to speak of as this is a personal server that only my friends have access to. 
 
