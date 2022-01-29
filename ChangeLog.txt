@@ -1,3 +1,28 @@
+-----2022/01/18-----
+
+Added a daily dungeon quest to NPC Justine Demalier (12481).
+	Requires level 60.
+	Dungeons available: Dire Maul, Heroic: Deadmines, Lower Blackrock Spire, The Temple of Atal'Hakkar, Scholomance, Blackrock Depths, Stratholme
+
+Updated the custom Atlas_Loot addon.
+	Now includes the custom currency items and a new menu.
+	
+Tweaks to ZG mobs.
+
+-----2022/01/10-----
+
+Buffed spell Demon Slaying 99 (18212) | Now gives 149 attack power vs demons. Also name changed to Demon Slaying 149.
+
+Buffed item Demonslayer (13044) | Dps is now 52.1 was 48.9.
+
+-----2022/01/02-----
+
+Buffed Seal of Ascension (12344) | 14 Stamina, 10 hit, 10 crit, and 10 haste. Was 12 stamina, 9 hit, and 9 crit.
+
+Buffed Wound (17407) used by The Blackrock Slicer (13285) | Now deals 340 to 380 damage and 75 damage every 1 second for 5 seconds.
+
+Buffed droprate of Doomshot (12654) | Now drops in stacks of 200. Was 50.
+
 -----2021/12/29-----
 
 Reenabled the Seal of Ascension requirement to open the door to UBRS. 
