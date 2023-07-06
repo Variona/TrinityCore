@@ -1,4 +1,7 @@
-# TrinityCore
+# ---- This Repository is Archived ----
+### See https://github.com/Variona/AzerothCore for future updates
+
+## TrinityCore
 Basics of this server.
 
 3.3.5 - Wrath of the Lich King
